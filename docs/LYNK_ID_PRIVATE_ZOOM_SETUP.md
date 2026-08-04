@@ -19,7 +19,7 @@ Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan fo
   `[PRIVATE 1-ON-1 ZOOM] Setup WA Hub Multi-CS & Agentic AI Engine Sampai Berhasil! 🚀🤖`
 
 - **Tagline / Ringkasan Singkat (Subtitle)**:
-  `Pendampingan privat via Zoom 1-on-1 dari nol sampai WhatsApp toko kamu otomatis dijawab AI & terkoneksi Multi-CS Dashboard!`
+  `Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Dapat Link Grup WA VIP setelah checkout)`
 
 - **Kategori Produk**: `Jasa & Konsultasi / Digital Service`
 
@@ -29,7 +29,7 @@ Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan fo
 
 ---
 
-## ✍️ 3. Copywriting Deskripsi Lynk.id (Teks Siap Copypaste)
+## ✍️ 3. Deskripsi Produk Lynk.id (Siap Copy-Paste)
 
 ```markdown
 🔥 MAU NOMOR WHATSAPP TOKO KAMU OTOMATIS DIJAWAB AI & DIKELOLA BANYAK CS TANPA RIBET?
@@ -37,6 +37,11 @@ Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan fo
 Lewat sesi Private 1-on-1 Zoom Setup, kamu akan didampingi secara langsung dari nol sampai sistem WhatsApp Hub & Agentic AI Engine kamu LIVE & SIAP PAKAI untuk bisnis kamu!
 
 Gak perlu pusing urusan koding, integrasi token, atau error webhook. Semua kita selesaikan bersama dalam 1 sesi Zoom privat!
+
+========================================
+💬 SETELAH CHECKOUT LANGSUNG DAPAT LINK GRUP WA VIP!
+========================================
+Setelah pembayaran sukses, kamu akan LANTAS otomatis mendapatkan Tautan Link Grup WhatsApp VIP Support Privat untuk penentuan jadwal Zoom & pendampingan langsung!
 
 ========================================
 🎯 APA SAJA YANG AKAN DIKERJAKAN DI SESI ZOOM?
@@ -64,9 +69,10 @@ Gak perlu pusing urusan koding, integrasi token, atau error webhook. Semua kita 
 ========================================
 🎁 BONUS EKSKLUSIF YANG KAMU DAPATKAN
 ========================================
+✅ Tautan Akses Link Grup WhatsApp VIP Privat (Langsung dapat setelah checkout).
 ✅ Akses Full Source Code & Modul (Agentic Hub & WA Hub).
 ✅ Template Prompt AI CS/Sales Closing siap pakai yang teruji closing rate tinggi.
-✅ Grup Support Diskusi Privat pasca sesi Zoom.
+✅ Diskusi & Konsultasi Lanjutan di Grup Support Privat.
 
 ========================================
 📋 SYARAT YANG PERLU DISIAPKAN SEBELUM ZOOM
@@ -91,20 +97,24 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 
 ---
 
-## ✉️ 5. Pesan Otomatis Pasca Pembayaran (Auto-Reply Message)
+## ✉️ 5. Pesan Otomatis Pasca Pembayaran & Link Grup WA VIP
 
-> **Subjek**: *Terima Kasih! Slot Private Zoom Setup WA Hub & Agentic AI Kamu Berhasil Dipesan 🎉*
+> **Subjek**: *Terima Kasih! Slot Private Zoom Setup & Akses Grup VIP Kamu Berhasil Dipesan 🎉*
 >
 > **Isi Pesan**:
 > Halo Kak [Nama Pembeli]! 👋
 > 
 > Terima kasih sudah memesan **Private 1-on-1 Zoom Setup: WA Hub & Agentic AI Engine**.
 > 
-> Tim kami akan segera menghubungi kamu via WhatsApp ke nomor **[Nomor WA]** dalam waktu 1x24 jam untuk mengonfirmasi jadwal & mengirimkan link ruangan Zoom.
+> ========================================
+> 🔗 LINK GRUP WHATSAPP VIP SUPPORT
+> ========================================
+> Silakan langsung bergabung ke Grup WhatsApp VIP Privat melalui link berikut untuk koordinasi penentuan jadwal Zoom & diskusi teknis:
+> 👉 **https://chat.whatsapp.com/GrupVipSetupWAHub** *(Ganti dengan link grup WA kamu)*
 > 
-> Sambil menunggu, silakan siapkan:
+> Sambil menunggu sesi Zoom, silakan siapkan:
 > 1. Nomor WA toko yang akan dikoneksikan.
 > 2. Akun Fonnte / Token WA Gateway.
 > 3. List produk & harga toko kamu.
 > 
-> Sampai ketemu di sesi Zoom privat nanti ya Kak! 🚀
+> Sampai ketemu di sesi Zoom privat & grup WhatsApp ya Kak! 🚀
