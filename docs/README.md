@@ -1,12 +1,14 @@
 # 📚 Agentic Hub — Documentation & Showcase Hub
 
-Selamat datang di pusat dokumentasi resmi dan katalog peluncuran produk **Agentic Hub — AI Product & Tool Calling Engine**.
+Selamat datang di pusat dokumentasi resmi, katalog peluncuran produk, dan media kit Lynk.id **Agentic Hub — AI Product & Tool Calling Engine**.
 
 ---
 
-## 🖼️ Featured Product Showcase
+## 🖼️ Featured Product & Service Banners
 
-![WA Hub Product Showcase](images/wa_hub_product_showcase.jpg)
+| WA Hub Product Showcase | Lynk.id Private Zoom Setup Banner |
+| --- | --- |
+| ![WA Hub Product Showcase](images/wa_hub_product_showcase.jpg) | ![Private Zoom Setup Banner](images/private_zoom_setup_banner.jpg) |
 
 ---
 
@@ -14,8 +16,9 @@ Selamat datang di pusat dokumentasi resmi dan katalog peluncuran produk **Agenti
 
 | Dokumentasi | Deskripsi | Link Berkas |
 | --- | --- | --- |
+| **🎓 Lynk.id Media Kit & Copywriting** | Panduan lengkap jualan jasa **Private 1-on-1 Zoom Setup** di Lynk.id, banner produk, copywriting, bonus, & form checkout. | [Baca Dokumentasi `LYNK_ID_PRIVATE_ZOOM_SETUP.md`](LYNK_ID_PRIVATE_ZOOM_SETUP.md) |
 | **🚀 WA Hub Product Launch Guide** | Panduan lengkap peluncuran produk **WhatsApp Hub & Multi-CS Live Chat System**, fitur unggulan, harga promo, SKU (`WAHUB-PRO-01`), dan link order direct. | [Baca Dokumentasi `WA_HUB_PRODUCT_LAUNCH.md`](WA_HUB_PRODUCT_LAUNCH.md) |
-| **🖼️ Showcase Assets Directory** | Folder penyimpanan gambar resolusi tinggi, mockup UI dashboard, dan thumbnail media kit TikTok/Threads. | [Lihat Folder Assets `images/`](images/) |
+| **🖼️ Showcase Assets Directory** | Folder penyimpanan gambar resolusi tinggi, mockup UI dashboard, dan banner promosi. | [Lihat Folder Assets `images/`](images/) |
 | **📘 Main PRD (Product Requirements Document)** | Dokumen arsitektur lengkap 8 Fase Agentic Hub Engine (Database, Catalog, AI Provider, Scopes, REST API, UI Playground, Audit Logs, & WA Webhook). | [Baca Main `PRD.md`](../PRD.md) |
 
 ---
