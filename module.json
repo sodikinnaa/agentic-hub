@@ -1,0 +1,18 @@
+{
+    "name": "AgenticHub",
+    "alias": "agentic-hub",
+    "code": "agentic-hub",
+    "description": "Enterprise AI Agent Orchestrator, Multi-Model LLM Registry, Function Tool Calling Engine & Role-Based Access Control",
+    "keywords": [
+        "agentic-hub",
+        "ai",
+        "llm",
+        "tool-calling",
+        "rbac"
+    ],
+    "priority": 1,
+    "providers": [
+        "Modules\\AgenticHub\\Providers\\AgenticHubServiceProvider"
+    ],
+    "files": []
+}

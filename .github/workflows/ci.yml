@@ -1,0 +1,50 @@
+name: Agentic Hub CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate Module & Lint Code
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP 8.3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: mbstring, pdo, pdo_sqlite, bcmath, ctype, xml, json
+          coverage: none
+
+      - name: Validate module.json
+        run: |
+          php -r "
+          \$json = json_decode(file_get_contents('module.json'), true);
+          if (!isset(\$json['name']) || \$json['name'] !== 'AgenticHub') {
+              echo 'Invalid module.json configuration';
+              exit(1);
+          }
+          echo '✅ AgenticHub module.json is valid!';
+          "
+
+      - name: Lint PHP Files
+        run: |
+          find . -name "*.php" -not -path "./vendor/*" -exec php -l {} \;
+
+      - name: Check Documentation & Product Launch Assets
+        run: |
+          test -f README.md && echo "✅ README.md exists!"
+          test -f PRD.md && echo "✅ PRD.md exists!"
+          test -f docs/WA_HUB_PRODUCT_LAUNCH.md && echo "✅ WA_HUB_PRODUCT_LAUNCH.md exists!"
+          test -f docs/images/wa_hub_product_showcase.jpg && echo "✅ Showcase image exists!"
