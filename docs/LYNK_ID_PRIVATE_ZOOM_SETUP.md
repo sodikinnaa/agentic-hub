@@ -1,6 +1,48 @@
 # 🎯 Kit Siap Pakai Lynk.id — Private 1-on-1 Zoom Setup (WA Hub & Agentic AI)
 
-Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan format tampilan resmi **Lynk.id**.
+Dokumen ini berisi materi lengkap dan data isian resmi yang siap di-copypaste langsung ke dashboard **Lynk.id** maupun ke form **Agentic Hub Product Catalog**.
+
+---
+
+## 🔗 Link Resmi Produk & Checkout Lynk.id
+
+- **Tautan Halaman Produk**: [https://lynk.id/itretceh/6o5pqqz28jr4](https://lynk.id/itretceh/6o5pqqz28jr4)
+- **Tautan Checkout Direct**: [https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9](https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9)
+
+---
+
+## 📦 Data Form Input Agentic Hub Catalog (`/agentic-hub/ai-management?tab=products`)
+
+| Field Form Agentic Hub | Nilai Isian (Copy-Paste Ready) |
+| --- | --- |
+| **Nama Produk** | `Private 1-on-1 Zoom Setup: WA Hub Multi-CS & Agentic AI Engine` |
+| **Kode SKU** | `ZOOM-SETUP-AI-01` |
+| **Kategori Produk** | `Jasa & Konsultasi` |
+| **Harga Resmi (Rp)** | `499000` |
+| **Harga Promo (Rp)** | `249000` |
+| **Status Stok** | `in_stock` *(In Stock 🟢)* |
+| **Link Detail Produk** | `https://lynk.id/itretceh/6o5pqqz28jr4` |
+| **Link Checkout Direct** | `https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9` |
+| **Deskripsi Produk** | *(Lihat blok deskripsi di bawah)* |
+
+### 📝 Deskripsi Produk untuk Database Agentic Hub:
+```text
+Pendampingan privat via Zoom 1-on-1 dari nol sampai WhatsApp toko kamu otomatis dijawab AI & terkoneksi Multi-CS Dashboard! 
+
+Fasilitas & Materi Setup:
+1. Panduan & integrasi Fonnte / Meta Official Cloud API Webhook 2-way chat.
+2. Setup Agentic AI CS (Level 1) & Sales Closing AI (Level 2) closing otomatis.
+3. Input catalog product & database anti-halusinasi harga/stok.
+4. Live testing pesan WA masuk & serah terima (take over) ke CS manusia.
+5. Bonus Akses Link Grup WhatsApp VIP Support Privat setelah checkout & full source code.
+
+Jadwal Zoom:
+• Senin - Sabtu: Di atas jam 17:00 WIB
+• Minggu: Fleksibel / Bebas pilih jam
+
+Syarat Persiapan:
+• Komputer/Laptop, 1 Nomor WA Toko, Token Fonnte, & Akun GitHub Aktif (login OAuth).
+```
 
 ---
 
@@ -13,23 +55,7 @@ Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan fo
 
 ---
 
-## 📌 2. Informasi Utama Produk (Input Form Lynk.id)
-
-- **Judul Produk (Lynk.id Title)**:
-  `[PRIVATE 1-ON-1 ZOOM] Setup WA Hub Multi-CS & Agentic AI Engine Sampai Berhasil! 🚀🤖`
-
-- **Tagline / Ringkasan Singkat (Subtitle)**:
-  `Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Link Grup WA VIP otomatis tampil setelah pembayaran)`
-
-- **Kategori Produk**: `Jasa & Konsultasi / Digital Service`
-
-- **Rekomendasi Harga**:
-  - **Harga Coret (Normal)**: `Rp 499.000`
-  - **Harga Promo Special**: `Rp 249.000` 🔥
-
----
-
-## ✍️ 3. Deskripsi Publik Produk Lynk.id (Teks Sebelum Checkout)
+## ✍️ 2. Deskripsi Publik Produk Lynk.id (Teks Sebelum Checkout)
 
 ```markdown
 🔥 MAU NOMOR WHATSAPP TOKO KAMU OTOMATIS DIJAWAB AI & DIKELOLA BANYAK CS TANPA RIBET?
@@ -92,7 +118,7 @@ Begitu pembayaran kamu berhasil, link masuk Grup WhatsApp VIP Support Privat aka
 
 ---
 
-## 📋 4. Setting Form Checkout Pembeli di Lynk.id
+## 📋 3. Setting Form Checkout Pembeli di Lynk.id
 
 Aktifkan field-field berikut pada form pemesanan Lynk.id:
 
@@ -105,29 +131,30 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 
 ---
 
-## ✉️ 5. Pesan Otomatis Pasca Pembayaran (Halaman Sukses & Email Setelah Pembeli Checkout)
+## ✉️ 4. Pesan Otomatis Pasca Pembayaran (Halaman Sukses & Email Setelah Pembeli Checkout)
 
-> **Subjek**: *Terima Kasih! Slot Private Zoom Setup & Akses Grup VIP Kamu Berhasil Dipesan 🎉*
->
-> **Isi Pesan**:
-> Halo Kak [Nama Pembeli]! 👋
-> 
-> Pembayaran kamu telah **BERHASIL & TERKONFIRMASI**! 🎉
-> 
-> ========================================
-> 🔗 LINK GRUP WHATSAPP VIP SUPPORT
-> ========================================
-> Silakan klik link berikut untuk bergabung ke Grup WhatsApp VIP Privat untuk penentuan jadwal Zoom & pendampingan langsung:
-> 👉 **https://chat.whatsapp.com/GrupVipSetupWAHub** *(Ganti dengan link grup WA privat kamu)*
-> 
-> Catatan Jam Operasional Zoom:
-> • Senin - Sabtu: Di atas jam 17:00 WIB
-> • Minggu: Bebas pilih jam
-> 
-> Sambil menunggu sesi Zoom, silakan siapkan:
-> 1. Akun GitHub aktif (untuk login OAuth ke member.wakdondin.my.id).
-> 2. Nomor WA toko yang akan dikoneksikan.
-> 3. Akun Fonnte / Token WA Gateway.
-> 4. List produk & harga toko kamu.
-> 
-> Sampai ketemu di sesi Zoom privat & grup WhatsApp ya Kak! 🚀
+```text
+Subjek: Terima Kasih! Slot Private Zoom Setup & Akses Grup VIP Kamu Berhasil Dipesan 🎉
+
+Halo Kak [Nama Pembeli]! 👋
+
+Pembayaran kamu telah BERHASIL & TERKONFIRMASI! 🎉
+
+========================================
+🔗 LINK GRUP WHATSAPP VIP SUPPORT
+========================================
+Silakan klik link berikut untuk bergabung ke Grup WhatsApp VIP Privat untuk penentuan jadwal Zoom & pendampingan langsung:
+👉 https://chat.whatsapp.com/GrupVipSetupWAHub (Ganti dengan link grup WA privat kamu)
+
+Catatan Jam Operasional Zoom:
+• Senin - Sabtu: Di atas jam 17:00 WIB
+• Minggu: Bebas pilih jam
+
+Sambil menunggu sesi Zoom, silakan siapkan:
+1. Akun GitHub aktif (untuk login OAuth ke member.wakdondin.my.id).
+2. Nomor WA toko yang akan dikoneksikan.
+3. Akun Fonnte / Token WA Gateway.
+4. List produk & harga toko kamu.
+
+Sampai ketemu di sesi Zoom privat & grup WhatsApp ya Kak! 🚀
+```
