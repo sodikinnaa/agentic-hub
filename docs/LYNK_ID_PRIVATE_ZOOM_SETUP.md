@@ -78,9 +78,10 @@ Setelah pembayaran sukses, kamu akan LANTAS otomatis mendapatkan Tautan Link Gru
 📋 SYARAT YANG PERLU DISIAPKAN SEBELUM ZOOM
 ========================================
 1. Laptop / Komputer dengan koneksi internet stabil.
-2. 1 Nomor WhatsApp yang akan dihubungkan (Nomor CS / Toko).
-3. Akun Fonnte / Token WhatsApp Gateway.
-4. Daftar produk, harga resmi, & link checkout (jika ada).
+2. Akun GitHub Aktif (Wajib untuk login OAuth ke website member.wakdondin.my.id).
+3. 1 Nomor WhatsApp yang akan dihubungkan (Nomor CS / Toko).
+4. Akun Fonnte / Token WhatsApp Gateway.
+5. Daftar produk, harga resmi, & link checkout (jika ada).
 ```
 
 ---
@@ -92,8 +93,9 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 1. **Nama Lengkap** `(Text — Required)`
 2. **Email Active** `(Email — Required)`
 3. **Nomor WhatsApp Active** `(Phone — Required)`
-4. **Opsi Jam & Tanggal Zoom yang Diinginkan** `(Textarea — Required)`
-5. **Kategori Bisnis / Nama Toko** `(Text — Optional)`
+4. **Username GitHub** `(Text — Required)`
+5. **Opsi Jam & Tanggal Zoom yang Diinginkan** `(Textarea — Required)`
+6. **Kategori Bisnis / Nama Toko** `(Text — Optional)`
 
 ---
 
@@ -113,8 +115,9 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 > 👉 **https://chat.whatsapp.com/GrupVipSetupWAHub** *(Ganti dengan link grup WA kamu)*
 > 
 > Sambil menunggu sesi Zoom, silakan siapkan:
-> 1. Nomor WA toko yang akan dikoneksikan.
-> 2. Akun Fonnte / Token WA Gateway.
-> 3. List produk & harga toko kamu.
+> 1. Akun GitHub aktif (untuk login OAuth ke member.wakdondin.my.id).
+> 2. Nomor WA toko yang akan dikoneksikan.
+> 3. Akun Fonnte / Token WA Gateway.
+> 4. List produk & harga toko kamu.
 > 
 > Sampai ketemu di sesi Zoom privat & grup WhatsApp ya Kak! 🚀

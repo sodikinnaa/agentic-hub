@@ -1,6 +1,6 @@
 # 🚀 Lynk.id Media Kit & Copywriting Setup: Private 1-on-1 Zoom
 
-Panduan & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id** (Sudah dilengkapi info link Grup WA VIP setelah checkout).
+Panduan & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id** (Sudah dilengkapi info link Grup WA VIP & Syarat Akun GitHub untuk Login OAuth Website).
 
 ---
 
@@ -80,9 +80,10 @@ Setelah pembayaran sukses, kamu akan LANTAS otomatis mendapatkan Tautan Link Gru
 📋 SYARAT YANG PERLU DISIAPKAN SEBELUM ZOOM
 ========================================
 1. Laptop / Komputer dengan koneksi internet stabil.
-2. 1 Nomor WhatsApp yang akan dihubungkan (Nomor CS / Toko).
-3. Akun Fonnte / Token WhatsApp Gateway.
-4. Daftar produk, harga resmi, & link checkout (jika ada).
+2. Akun GitHub Aktif (Wajib untuk login OAuth ke website member.wakdondin.my.id).
+3. 1 Nomor WhatsApp yang akan dihubungkan (Nomor CS / Toko).
+4. Akun Fonnte / Token WhatsApp Gateway.
+5. Daftar produk, harga resmi, & link checkout (jika ada).
 ```
 
 ---
@@ -93,8 +94,9 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 1. `Nama Lengkap` *(Text — Wajib)*
 2. `Email Aktif` *(Email — Wajib)*
 3. `Nomor WhatsApp Aktif` *(Phone — Wajib)*
-4. `Pilihan Tanggal & Jam Zoom` *(Textarea — Wajib)*
-5. `Nama Toko / Jenis Bisnis` *(Text — Opsional)*
+4. `Username GitHub` *(Text — Wajib)*
+5. `Pilihan Tanggal & Jam Zoom` *(Textarea — Wajib)*
+6. `Nama Toko / Jenis Bisnis` *(Text — Opsional)*
 
 ---
 
@@ -114,9 +116,10 @@ Silakan langsung bergabung ke Grup WhatsApp VIP Privat melalui link berikut untu
 👉 https://chat.whatsapp.com/GrupVipSetupWAHub (Ganti dengan link grup WA kamu)
 
 Sambil menunggu sesi Zoom, silakan siapkan:
-1. Nomor WA toko yang akan dikoneksikan.
-2. Akun Fonnte / Token WA Gateway.
-3. List produk & harga toko kamu.
+1. Akun GitHub aktif (untuk login OAuth ke member.wakdondin.my.id).
+2. Nomor WA toko yang akan dikoneksikan.
+3. Akun Fonnte / Token WA Gateway.
+4. List produk & harga toko kamu.
 
 Sampai ketemu di sesi Zoom privat & grup WhatsApp ya Kak! 🚀
 ```
