@@ -1,20 +1,55 @@
 # Agentic Hub — AI Product & Tool Calling Engine
 
-Modul mandiri **Agentic AI Engine** untuk Laravel / WakDondin Member Platform.
+[![Agentic Hub CI/CD Pipeline](https://github.com/sodikinnaa/agentic-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/sodikinnaa/agentic-hub/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://php.net)
+[![Lynk.id Ready](https://img.shields.io/badge/Lynk.id-Media%20Kit%20Ready-green.svg)](docs/LYNK_ID_PRIVATE_ZOOM_SETUP.md)
 
-## 🚀 Fitur Utama
-- **AI Product Catalog & Pricing**: Manajemen database produk, harga resmi, deskripsi, dan link checkout direct.
-- **Tool Calling / Function Calling API**: Memungkinkan AI Model (OpenAI, Gemini, Claude) mengambil data produk & link checkout secara real-time tanpa halusinasi.
-- **WhatsApp Hub Integration**: Integrasi ke WhatsApp Gateway / ChatCenter untuk menangani pesan balasan otomatis berpresisi tinggi.
+Modul mandiri **Agentic AI Engine & Tool Calling System** untuk Laravel & Platform SaaS WakDondin Member.
+
+---
+
+## 🖼️ Visual Showcase & Lynk.id Assets
+
+| 1:1 Lynk.id Square Thumbnail (1080x1080) | 16:9 Landscape Showcase Banner (1200x628) |
+| :---: | :---: |
+| <img src="docs/images/private_zoom_setup_thumb_1x1.jpg" width="350" alt="Lynk.id Square Thumbnail"> | <img src="docs/images/private_zoom_setup_banner.jpg" width="450" alt="Landscape Banner"> |
+
+---
+
+## 🚀 Fitur Utama Engine
+- **AI Product Catalog & Pricing Engine**: Pengelolaan database produk, SKU, harga promo, dan link checkout direct.
+- **Tool Calling / Function Calling API**: Memungkinkan AI Model (OpenAI, Gemini, DeepSeek) mengambil data produk & link checkout secara real-time tanpa halusinasi.
+- **Multi-Role Scopes**: Pengaturan otoritas berjenjang dari CS Support (Level 1), Sales Closer (Level 2), Stock Manager (Level 3), hingga Super Copilot (Level 4).
+- **WhatsApp Hub Integration**: Integrasi 2-way live chat real-time via Fonnte Gateway & Meta Cloud API Webhook.
+- **Audit Logs & Latency Tracker**: Pencatatan riwayat Panggilan Tool, Status HTTP, dan latensi respon milidetik.
+
+---
+
+## 🎓 Lynk.id Media Kit & Service Showcase
+
+| Item | Deskripsi | Link Berkas |
+| --- | --- | --- |
+| **🎓 Private 1-on-1 Zoom Setup Kit** | Paket copywriting, promo price (Rp 249K), syarat pre-zoom, & form checkout Lynk.id. | [Baca `LYNK_ID_PRIVATE_ZOOM_SETUP.md`](docs/LYNK_ID_PRIVATE_ZOOM_SETUP.md) |
+| **🚀 WA Hub Product Launch Guide** | Panduan lengkap launching produk **WhatsApp Hub & Multi-CS System** (SKU: `WAHUB-PRO-01`). | [Baca `WA_HUB_PRODUCT_LAUNCH.md`](docs/WA_HUB_PRODUCT_LAUNCH.md) |
+| **📚 Documentation Index** | Indeks seluruh berkas dokumentasi & asset showcase. | [Buka Folder `docs/`](docs/README.md) |
+
+---
+
+## 📐 Rekomendasi Ukuran Gambar Lynk.id
+
+| Jenis Tampilan | Ukuran Rekomendasi | Rasio | Tautan Berkas Gambar |
+| --- | --- | --- | --- |
+| **Thumbnail Etalase Produk Lynk.id** | **1080 x 1080 px** | **1:1 (Persegi)** | [Download `private_zoom_setup_thumb_1x1.jpg`](docs/images/private_zoom_setup_thumb_1x1.jpg) |
+| **Header Banner / Promotional Cover** | **1200 x 628 px** | **16:9 (Landscape)** | [Download `private_zoom_setup_banner.jpg`](docs/images/private_zoom_setup_banner.jpg) |
+
+---
 
 ## 📽️ Content Kit TikTok (Tutorial Integrasi WA Hub -> Agentic Hub)
 
 <img src="docs/images/tiktok_wa_agentic_thumbnail.jpg" width="350" alt="TikTok Thumbnail WA Hub to Agentic AI Hub Tutorial">
 
-
 🎬 **Link Video TikTok**: [https://www.tiktok.com/@sodikin.tso/video/7668955156981157141](https://www.tiktok.com/@sodikin.tso/video/7668955156981157141)
-
-
 
 ### 📌 Judul Utama Video TikTok (Hook Teks Layar)
 > **"Cara Hubungkan WhatsApp Hub ke Agentic AI Hub (Auto Tool Calling) 🚀"**
@@ -104,10 +139,7 @@ Fitur ini udah live & bisa diklaim **Free Trial 1 Bulan** langsung di dashboard:
 Kalo temen-temen dev atau solo founder ada yang lagi ngembangin fitur serupa & mau ngobrolin arsitekturnya, santai aja drop di reply ya! Let's yap! 🚀🔥  
 7/7
 
-
-
-
-
+---
 
 ## 🛠️ Lisensi
 Distributed under the MIT License.
