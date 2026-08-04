@@ -4,29 +4,67 @@ Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste la
 
 ---
 
-## 🔗 Tautan Resmi Produk & Checkout Direct Lynk.id
+## 📋 Data Form Input Agentic Hub Catalog (`/agentic-hub/ai-management?tab=products`)
 
-- **Halaman Produk Lynk.id**: [https://lynk.id/itretceh/6o5pqqz28jr4](https://lynk.id/itretceh/6o5pqqz28jr4)
-- **Tautan Checkout Direct**: [https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9](https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9)
+Klik ikon salin di kanan atas tiap kotak kode berikut:
+
+### 1. Nama Produk
+```text
+Private 1-on-1 Zoom Setup: WA Hub Multi-CS & Agentic AI Engine
+```
+
+### 2. Kode SKU
+```text
+ZOOM-SETUP-AI-01
+```
+
+### 3. Kategori Produk
+```text
+Jasa & Konsultasi
+```
+
+### 4. Harga Resmi (Rp)
+```text
+499000
+```
+
+### 5. Harga Promo (Rp)
+```text
+249000
+```
+
+### 6. Link Detail Produk
+```text
+https://lynk.id/itretceh/6o5pqqz28jr4
+```
+
+### 7. Link Checkout Direct
+```text
+https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9
+```
+
+### 8. Deskripsi Produk
+```text
+Pendampingan privat via Zoom 1-on-1 dari nol sampai WhatsApp toko kamu otomatis dijawab AI & terkoneksi Multi-CS Dashboard! 
+
+Fasilitas & Materi Setup:
+1. Panduan & integrasi Fonnte / Meta Official Cloud API Webhook 2-way chat.
+2. Setup Agentic AI CS (Level 1) & Sales Closing AI (Level 2) closing otomatis.
+3. Input catalog product & database anti-halusinasi harga/stok.
+4. Live testing pesan WA masuk & serah terima (take over) ke CS manusia.
+5. Bonus Akses Link Grup WhatsApp VIP Support Privat setelah checkout & full source code.
+
+Jadwal Zoom:
+• Senin - Sabtu: Di atas jam 17:00 WIB
+• Minggu: Fleksibel / Bebas pilih jam
+
+Syarat Persiapan:
+• Komputer/Laptop, 1 Nomor WA Toko, Token Fonnte, & Akun GitHub Aktif (login OAuth).
+```
 
 ---
 
-## 📦 Data Form Input Agentic Hub Catalog (`/agentic-hub/ai-management?tab=products`)
-
-| Field Form Agentic Hub | Nilai Isian (Copy-Paste Ready) |
-| --- | --- |
-| **Nama Produk** | `Private 1-on-1 Zoom Setup: WA Hub Multi-CS & Agentic AI Engine` |
-| **Kode SKU** | `ZOOM-SETUP-AI-01` |
-| **Kategori Produk** | `Jasa & Konsultasi` |
-| **Harga Resmi (Rp)** | `499000` |
-| **Harga Promo (Rp)** | `249000` |
-| **Status Stok** | `in_stock` *(In Stock 🟢)* |
-| **Link Detail Produk** | `https://lynk.id/itretceh/6o5pqqz28jr4` |
-| **Link Checkout Direct** | `https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9` |
-
----
-
-## 📷 1. Asset Gambar & Rekomendasi Ukuran Lynk.id
+## 📷 Gambar & Rekomendasi Ukuran Lynk.id
 
 | Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
 | --- | --- | --- | --- | --- |
@@ -35,7 +73,7 @@ Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste la
 
 ---
 
-## ✍️ 2. Deskripsi Publik Produk Lynk.id (Teks Sebelum Checkout)
+## ✍️ Deskripsi Publik Produk Lynk.id (Teks Sebelum Checkout)
 
 ```markdown
 🔥 MAU NOMOR WHATSAPP TOKO KAMU OTOMATIS DIJAWAB AI & DIKELOLA BANYAK CS TANPA RIBET?
@@ -98,7 +136,7 @@ Begitu pembayaran kamu berhasil, link masuk Grup WhatsApp VIP Support Privat aka
 
 ---
 
-## 📋 3. Setting Form Checkout Pembeli di Lynk.id
+## 📋 Setting Form Checkout Pembeli di Lynk.id
 
 Aktifkan field-field berikut pada form pemesanan Lynk.id:
 1. `Nama Lengkap` *(Text — Wajib)*
@@ -110,7 +148,7 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 
 ---
 
-## ✉️ 4. Auto-Reply Message / Pesan Pasca Pembayaran & Link Grup WA VIP
+## ✉️ Auto-Reply Message / Pesan Pasca Pembayaran & Link Grup WA VIP
 
 ```text
 Subjek: Terima Kasih! Slot Private Zoom Setup & Akses Grup VIP Kamu Berhasil Dipesan 🎉
