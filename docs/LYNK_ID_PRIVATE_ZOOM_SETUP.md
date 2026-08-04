@@ -33,17 +33,22 @@ Jasa & Konsultasi
 249000
 ```
 
-### 6. Link Detail Produk
+### 6. Deskripsi Ringkas / Subtitle (Lynk.id & Catalog Tagline)
+```text
+Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Bonus link Grup WA VIP)
+```
+
+### 7. Link Detail Produk
 ```text
 https://lynk.id/itretceh/6o5pqqz28jr4
 ```
 
-### 7. Link Checkout Direct
+### 8. Link Checkout Direct
 ```text
 https://lynk.id/itretceh/6o5pqqz28jr4/checkout?token=cGFyYW1zPSU1QiU1RCZ0aWNrZXRzPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0xJnNlc3NpZD0mdG90YWxfcHJpY2U9JnRvdGFsX3VuaXQ9
 ```
 
-### 8. Deskripsi Produk
+### 9. Deskripsi Lengkap Produk
 ```text
 Pendampingan privat via Zoom 1-on-1 dari nol sampai WhatsApp toko kamu otomatis dijawab AI & terkoneksi Multi-CS Dashboard! 
 
