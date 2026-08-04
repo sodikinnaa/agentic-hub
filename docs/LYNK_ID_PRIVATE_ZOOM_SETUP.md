@@ -19,7 +19,7 @@ Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan fo
   `[PRIVATE 1-ON-1 ZOOM] Setup WA Hub Multi-CS & Agentic AI Engine Sampai Berhasil! 🚀🤖`
 
 - **Tagline / Ringkasan Singkat (Subtitle)**:
-  `Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Jadwal: Senin-Sabtu > 17:00 WIB, Minggu Bebas Jam)`
+  `Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Link Grup WA VIP otomatis tampil setelah pembayaran)`
 
 - **Kategori Produk**: `Jasa & Konsultasi / Digital Service`
 
@@ -29,7 +29,7 @@ Dokumen ini berisi materi lengkap yang sudah dirapikan dan disesuaikan dengan fo
 
 ---
 
-## ✍️ 3. Deskripsi Produk Lynk.id (Siap Copy-Paste)
+## ✍️ 3. Deskripsi Publik Produk Lynk.id (Teks Sebelum Checkout)
 
 ```markdown
 🔥 MAU NOMOR WHATSAPP TOKO KAMU OTOMATIS DIJAWAB AI & DIKELOLA BANYAK CS TANPA RIBET?
@@ -39,15 +39,15 @@ Lewat sesi Private 1-on-1 Zoom Setup, kamu akan didampingi secara langsung dari 
 Gak perlu pusing urusan koding, integrasi token, atau error webhook. Semua kita selesaikan bersama dalam 1 sesi Zoom privat!
 
 ========================================
+💬 AKSES GRUP WA VIP DIBERIKAN SETELAH CHECKOUT!
+========================================
+Begitu pembayaran kamu berhasil, link masuk Grup WhatsApp VIP Support Privat akan OTOMATIS TAMPIL di halaman sukses & dikirimkan ke email kamu untuk penentuan jadwal Zoom!
+
+========================================
 ⏰ JADWAL OPERASIONAL SESI ZOOM
 ========================================
 • Senin s/d Sabtu : Di atas jam 17:00 WIB (Sesi Malam)
 • Hari Minggu     : Fleksibel / Bebas Pilih Jam (Full Day)
-
-========================================
-💬 SETELAH CHECKOUT LANGSUNG DAPAT LINK GRUP WA VIP!
-========================================
-Setelah pembayaran sukses, kamu akan LANTAS otomatis mendapatkan Tautan Link Grup WhatsApp VIP Support Privat untuk penentuan jadwal Zoom & pendampingan langsung!
 
 ========================================
 🎯 APA SAJA YANG AKAN DIKERJAKAN DI SESI ZOOM?
@@ -75,7 +75,7 @@ Setelah pembayaran sukses, kamu akan LANTAS otomatis mendapatkan Tautan Link Gru
 ========================================
 🎁 BONUS EKSKLUSIF YANG KAMU DAPATKAN
 ========================================
-✅ Tautan Akses Link Grup WhatsApp VIP Privat (Langsung dapat setelah checkout).
+✅ Tautan Akses Link Grup WhatsApp VIP Privat (Otomatis dapat setelah checkout).
 ✅ Akses Full Source Code & Modul (Agentic Hub & WA Hub).
 ✅ Template Prompt AI CS/Sales Closing siap pakai yang teruji closing rate tinggi.
 ✅ Diskusi & Konsultasi Lanjutan di Grup Support Privat.
@@ -105,20 +105,20 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 
 ---
 
-## ✉️ 5. Pesan Otomatis Pasca Pembayaran & Link Grup WA VIP
+## ✉️ 5. Pesan Otomatis Pasca Pembayaran (Halaman Sukses & Email Setelah Pembeli Checkout)
 
 > **Subjek**: *Terima Kasih! Slot Private Zoom Setup & Akses Grup VIP Kamu Berhasil Dipesan 🎉*
 >
 > **Isi Pesan**:
 > Halo Kak [Nama Pembeli]! 👋
 > 
-> Terima kasih sudah memesan **Private 1-on-1 Zoom Setup: WA Hub & Agentic AI Engine**.
+> Pembayaran kamu telah **BERHASIL & TERKONFIRMASI**! 🎉
 > 
 > ========================================
 > 🔗 LINK GRUP WHATSAPP VIP SUPPORT
 > ========================================
-> Silakan langsung bergabung ke Grup WhatsApp VIP Privat melalui link berikut untuk koordinasi penentuan jadwal Zoom & diskusi teknis:
-> 👉 **https://chat.whatsapp.com/GrupVipSetupWAHub** *(Ganti dengan link grup WA kamu)*
+> Silakan klik link berikut untuk bergabung ke Grup WhatsApp VIP Privat untuk penentuan jadwal Zoom & pendampingan langsung:
+> 👉 **https://chat.whatsapp.com/GrupVipSetupWAHub** *(Ganti dengan link grup WA privat kamu)*
 > 
 > Catatan Jam Operasional Zoom:
 > • Senin - Sabtu: Di atas jam 17:00 WIB
