@@ -1,145 +1,112 @@
-# Agentic Hub — AI Product & Tool Calling Engine
+# 🚀 Lynk.id Setup Kit: Private 1-on-1 Zoom Setup (WA Hub & Agentic AI)
 
-[![Agentic Hub CI/CD Pipeline](https://github.com/sodikinnaa/agentic-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/sodikinnaa/agentic-hub/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
-[![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://php.net)
-[![Lynk.id Ready](https://img.shields.io/badge/Lynk.id-Media%20Kit%20Ready-green.svg)](docs/LYNK_ID_PRIVATE_ZOOM_SETUP.md)
-
-Modul mandiri **Agentic AI Engine & Tool Calling System** untuk Laravel & Platform SaaS WakDondin Member.
+Kit copywriting, banner, dan panduan lengkap yang siap di-copypaste untuk berjualan jasa **Private 1-on-1 Zoom Setup** di **Lynk.id**.
 
 ---
 
-## 🖼️ Visual Showcase & Lynk.id Assets
+## 📷 1. Gambar & Rekomendasi Ukuran Lynk.id
 
-| 1:1 Lynk.id Square Thumbnail (1080x1080) | 16:9 Landscape Showcase Banner (1200x628) |
-| :---: | :---: |
-| <img src="docs/images/private_zoom_setup_thumb_1x1.jpg" width="350" alt="Lynk.id Square Thumbnail"> | <img src="docs/images/private_zoom_setup_banner.jpg" width="450" alt="Landscape Banner"> |
-
----
-
-## 🚀 Fitur Utama Engine
-- **AI Product Catalog & Pricing Engine**: Pengelolaan database produk, SKU, harga promo, dan link checkout direct.
-- **Tool Calling / Function Calling API**: Memungkinkan AI Model (OpenAI, Gemini, DeepSeek) mengambil data produk & link checkout secara real-time tanpa halusinasi.
-- **Multi-Role Scopes**: Pengaturan otoritas berjenjang dari CS Support (Level 1), Sales Closer (Level 2), Stock Manager (Level 3), hingga Super Copilot (Level 4).
-- **WhatsApp Hub Integration**: Integrasi 2-way live chat real-time via Fonnte Gateway & Meta Cloud API Webhook.
-- **Audit Logs & Latency Tracker**: Pencatatan riwayat Panggilan Tool, Status HTTP, dan latensi respon milidetik.
+| Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
+| --- | --- | --- | --- | --- |
+| **Thumbnail Etalase (Utama)** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="docs/images/private_zoom_setup_thumb_1x1.jpg" width="200" alt="Thumbnail 1:1"> | [Download 1:1](docs/images/private_zoom_setup_thumb_1x1.jpg) |
+| **Header Banner / Cover** | **1200 x 628 px** | **16:9 (Landscape)** | <img src="docs/images/private_zoom_setup_banner.jpg" width="300" alt="Banner 16:9"> | [Download 16:9](docs/images/private_zoom_setup_banner.jpg) |
 
 ---
 
-## 🎓 Lynk.id Media Kit & Service Showcase
+## 📌 2. Form Isian Produk (Lynk.id Input)
 
-| Item | Deskripsi | Link Berkas |
-| --- | --- | --- |
-| **🎓 Private 1-on-1 Zoom Setup Kit** | Paket copywriting, promo price (Rp 249K), syarat pre-zoom, & form checkout Lynk.id. | [Baca `LYNK_ID_PRIVATE_ZOOM_SETUP.md`](docs/LYNK_ID_PRIVATE_ZOOM_SETUP.md) |
-| **🚀 WA Hub Product Launch Guide** | Panduan lengkap launching produk **WhatsApp Hub & Multi-CS System** (SKU: `WAHUB-PRO-01`). | [Baca `WA_HUB_PRODUCT_LAUNCH.md`](docs/WA_HUB_PRODUCT_LAUNCH.md) |
-| **📚 Documentation Index** | Indeks seluruh berkas dokumentasi & asset showcase. | [Buka Folder `docs/`](docs/README.md) |
+- **Judul Produk**:
+  ```text
+  [PRIVATE 1-ON-1 ZOOM] Setup WA Hub Multi-CS & Agentic AI Engine Sampai Berhasil! 🚀🤖
+  ```
+
+- **Ringkasan / Tagline**:
+  ```text
+  Pendampingan privat via Zoom 1-on-1 dari nol sampai WhatsApp toko kamu otomatis dijawab AI & terkoneksi Multi-CS Dashboard!
+  ```
+
+- **Pengaturan Harga**:
+  - **Harga Normal (Harga Coret)**: `Rp 499.000`
+  - **Harga Promo Spesial**: `Rp 249.000`
 
 ---
 
-## 📐 Rekomendasi Ukuran Gambar Lynk.id
+## ✍️ 3. Deskripsi Produk Lynk.id (Siap Copy-Paste)
 
-| Jenis Tampilan | Ukuran Rekomendasi | Rasio | Tautan Berkas Gambar |
-| --- | --- | --- | --- |
-| **Thumbnail Etalase Produk Lynk.id** | **1080 x 1080 px** | **1:1 (Persegi)** | [Download `private_zoom_setup_thumb_1x1.jpg`](docs/images/private_zoom_setup_thumb_1x1.jpg) |
-| **Header Banner / Promotional Cover** | **1200 x 628 px** | **16:9 (Landscape)** | [Download `private_zoom_setup_banner.jpg`](docs/images/private_zoom_setup_banner.jpg) |
+```markdown
+🔥 MAU NOMOR WHATSAPP TOKO KAMU OTOMATIS DIJAWAB AI & DIKELOLA BANYAK CS TANPA RIBET?
 
----
+Lewat sesi Private 1-on-1 Zoom Setup, kamu akan didampingi secara langsung dari nol sampai sistem WhatsApp Hub & Agentic AI Engine kamu LIVE & SIAP PAKAI untuk bisnis kamu!
 
-## 📽️ Content Kit TikTok (Tutorial Integrasi WA Hub -> Agentic Hub)
+Gak perlu pusing urusan koding, integrasi token, atau error webhook. Semua kita selesaikan bersama dalam 1 sesi Zoom privat!
 
-<img src="docs/images/tiktok_wa_agentic_thumbnail.jpg" width="350" alt="TikTok Thumbnail WA Hub to Agentic AI Hub Tutorial">
+========================================
+🎯 APA SAJA YANG AKAN DIKERJAKAN DI SESI ZOOM?
+========================================
 
-🎬 **Link Video TikTok**: [https://www.tiktok.com/@sodikin.tso/video/7668955156981157141](https://www.tiktok.com/@sodikin.tso/video/7668955156981157141)
+1. 📱 Koneksi WhatsApp Gateway:
+   • Panduan integrasi Fonnte / Meta Official Cloud API ke Dashboard.
+   • Pemasangan Webhook 2-way chat real-time.
 
-### 📌 Judul Utama Video TikTok (Hook Teks Layar)
-> **"Cara Hubungkan WhatsApp Hub ke Agentic AI Hub (Auto Tool Calling) 🚀"**
+2. 🤖 Setup & Konfigurasi Agentic AI Engine:
+   • Pemilihan AI Model Engine (OpenAI / Gemini / DeepSeek).
+   • Pengaturan AI CS (Level 1) & Sales Closing AI (Level 2) yang siap closing otomatis.
 
-### 📝 Deskripsi / Caption TikTok (Koneksi Agentic AI Hub)
-```text
-Bikin AI WhatsApp Bot yang gak halusinasi harga & stok produk ternyata gampang banget guys! 🤯🤖
+3. 📦 Input Katalog & Tool Calling Database:
+   • Memasukkan data produk, SKU, harga promo, dan link checkout direct.
+   • Memastikan AI TIDAK HALUSINASI saat menjawab harga & stok barang.
 
-Tutorial koneksi WhatsApp Hub ke Agentic Hub di WakDondin Member:
-1️⃣ Input produk & link checkout di Agentic AI Hub
-2️⃣ Hubungkan API Key Agentic Hub ke modul WhatsApp Hub
-3️⃣ AI otomatis panggil Tool Calling saat customer chat WA nanyain harga/link beli! 💬⚡
+4. 🧪 Live Testing 2-Way Chat:
+   • Pengujian pesan WA masuk langsung dari HP ke Dashboard Live Inbox.
+   • Simulasi pesan balasan otomatis AI & serah terima (take over) ke CS manusia.
 
-Gak ada lagi cerita AI ngasal kasih harga! 🚀
+5. 💡 Sesi Tanya Jawab & Custom Prompt:
+   • Penyesuaian bahasa CS AI sesuai tone & karakter brand toko kamu.
 
-Cobain & akses sekarang di 👉 https://member.wakdondin.my.id ya! Ada kendala? Tulis di komentar 👇
+========================================
+🎁 BONUS EKSKLUSIF YANG KAMU DAPATKAN
+========================================
+✅ Akses Full Source Code & Modul (Agentic Hub & WA Hub).
+✅ Template Prompt AI CS/Sales Closing siap pakai yang teruji closing rate tinggi.
+✅ Grup Support Diskusi Privat pasca sesi Zoom.
 
-#agenticai #whatsappbot #toolcalling #wakdondin #aiindonesia #laravel #webdevelopment #coding #saas #fyp
+========================================
+📋 SYARAT YANG PERLU DISIAPKAN SEBELUM ZOOM
+========================================
+1. Laptop / Komputer dengan koneksi internet stabil.
+2. 1 Nomor WhatsApp yang akan dihubungkan (Nomor CS / Toko).
+3. Akun Fonnte / Token WhatsApp Gateway.
+4. Daftar produk, harga resmi, & link checkout (jika ada).
 ```
 
 ---
 
-## 🧵 Threads Content Kit (Utas Yapping Original & Alami)
+## 📋 4. Setting Form Checkout Pembeli di Lynk.id
 
-### 📌 Topik: "Kenapa Bot WA Jaman Now Masih Suka Halusinasi Harga & Solusi Tool Calling Engine"
-
-#### 1/7 - The Hook
-Pengalaman paling bikin elus dada sebagai dev: udah bikin AI Chatbot WhatsApp keren-keren, eh pas dipakai user malah halusinasi ngasih diskon 90% & ngobral stok barang ghaib 😭  
-
-Dari situ gw sadar, kebanyakan bot WA jaman sekarang itu emang pinter ngobrol, tapi "buta" sama data asli toko.  
-
-Ini cerita gimana gw ngebangun solusinya di **member.wakdondin.my.id**. 👇  
-1/7
-
-#### 2/7 - The Reality
-Masalah bot WA biasa itu cuma disuapin prompt panjang:  
-*"Kamu CS ramah, ini daftar 50 produk kami..."*  
-
-Faktanya? LLM bakal lupa, ngarang harga pas ditanya varian rumit, atau ngasih link checkout yang gak valid.  
-
-Ujung-ujungnya owner toko tetep harus turun tangan bales manual, atau pasrah rugi gara-gara AI-nya ngobral harga asal-asalan.  
-2/7
-
-#### 3/7 - Tool Calling Engine
-Solusinya bukan bikin prompt yang makin panjang, tapi **mencabut hak AI buat ngebual**.  
-
-Di modul **Agentic AI Hub**, AI-nya dilarang keras nebak harga/stok.  
-
-Tiap ada chat masuk di WhatsApp:  
-1. AI baca maksud pesan  
-2. AI wajib nge-call Tool (`search_products`) ke database  
-3. AI narik harga & link checkout resmi secara real-time  
-3/7
-
-#### 4/7 - Dashboard & Live Control
-Biar gak lepas kendali, semua chat yang dihandle AI tetep masuk ke **Live Inbox (xChat UI)** di web dashboard.  
-
-Jadi admin/owner bisa mantau dari layar laptop:  
-🟢 Kalo AI-nya lancar, biarin running 24/7.  
-🔴 Kalo ada chat spesifik yang butuh penanganan manusia, CS bisa langsung ambil alih (*take over*) sekali klik.  
-4/7
-
-#### 5/7 - Modular System
-Sistem ini sengaja gw bikin modular di Laravel (pake Fonnte WA Gateway & Meta Cloud API):  
-
-Kalo butuh WA Gateway-nya doang? Tinggal pake **WhatsApp Hub**.  
-Kalo butuh AI engine-nya buat web lain? Tinggal pake **Agentic AI Hub** via REST API Key (`wakhub_live_sk_...`).  
-
-Gak perlu sewa SaaS bulanan berjut-jut yang fiturnya dikunci-kunci.  
-5/7
-
-#### 6/7 - Versatile Use-Cases
-Ternyata alur kayak gini gak cuma berguna buat olshop.  
-
-Temen-temen yang punya bisnis jasa B2B, kelas online, agen properti, sampe klinik kecantikan bisa pake alur yang sama:  
-Tinggal rapihin data produk/layanan di dashboard, hubungin token WA, beres.  
-6/7
-
-#### 7/7 - Closing & Link
-Fitur ini udah live & bisa diklaim **Free Trial 1 Bulan** langsung di dashboard:  
-👉 https://member.wakdondin.my.id  
-
-📹 **Video demo & tutorial lengkapnya di TikTok:**  
-🎬 Setup Fonnte WA: https://www.tiktok.com/@sodikin.tso/video/7668954448231697685  
-🎬 Integrasi Agentic AI: https://www.tiktok.com/@sodikin.tso/video/7668955156981157141  
-
-Kalo temen-temen dev atau solo founder ada yang lagi ngembangin fitur serupa & mau ngobrolin arsitekturnya, santai aja drop di reply ya! Let's yap! 🚀🔥  
-7/7
+Aktifkan field-field berikut pada form pemesanan Lynk.id:
+1. `Nama Lengkap` *(Text — Wajib)*
+2. `Email Aktif` *(Email — Wajib)*
+3. `Nomor WhatsApp Aktif` *(Phone — Wajib)*
+4. `Pilihan Tanggal & Jam Zoom` *(Textarea — Wajib)*
+5. `Nama Toko / Jenis Bisnis` *(Text — Opsional)*
 
 ---
 
-## 🛠️ Lisensi
-Distributed under the MIT License.
+## ✉️ 5. Auto-Reply Message / Pesan Pasca Pembayaran
+
+```text
+Subjek: Terima Kasih! Slot Private Zoom Setup WA Hub & Agentic AI Kamu Berhasil Dipesan 🎉
+
+Halo Kak [Nama Pembeli]! 👋
+
+Terima kasih sudah memesan Private 1-on-1 Zoom Setup: WA Hub & Agentic AI Engine.
+
+Tim kami akan segera menghubungi kamu via WhatsApp ke nomor [Nomor WA] dalam waktu 1x24 jam untuk mengonfirmasi jadwal & mengirimkan link ruangan Zoom.
+
+Sambil menunggu, silakan siapkan:
+1. Nomor WA toko yang akan dikoneksikan.
+2. Akun Fonnte / Token WA Gateway.
+3. List produk & harga toko kamu.
+
+Sampai ketemu di sesi Zoom privat nanti ya Kak! 🚀
+```
