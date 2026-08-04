@@ -4,6 +4,16 @@ Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste la
 
 ---
 
+## 📷 Asset Gambar & Rekomendasi Ukuran Lynk.id
+
+| Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
+| --- | --- | --- | --- | --- |
+| **Foto Profil Grup WA VIP** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
+| **Thumbnail Etalase (Utama)** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/private_zoom_setup_thumb_1x1.jpg" width="180" alt="Thumbnail 1:1"> | [Download 1:1](images/private_zoom_setup_thumb_1x1.jpg) |
+| **Header Banner / Cover** | **1200 x 628 px** | **16:9 (Landscape)** | <img src="images/private_zoom_setup_banner.jpg" width="280" alt="Banner 16:9"> | [Download 16:9](images/private_zoom_setup_banner.jpg) |
+
+---
+
 ## 📋 Data Form Input Agentic Hub Catalog (`/agentic-hub/ai-management?tab=products`)
 
 Klik ikon salin di kanan atas tiap kotak kode berikut:
@@ -66,15 +76,6 @@ Jadwal Zoom:
 Syarat Persiapan:
 • Komputer/Laptop, 1 Nomor WA Toko, Token Fonnte, & Akun GitHub Aktif (login OAuth).
 ```
-
----
-
-## 📷 Gambar & Rekomendasi Ukuran Lynk.id
-
-| Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
-| --- | --- | --- | --- | --- |
-| **Thumbnail Etalase (Utama)** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/private_zoom_setup_thumb_1x1.jpg" width="200" alt="Thumbnail 1:1"> | [Download 1:1](images/private_zoom_setup_thumb_1x1.jpg) |
-| **Header Banner / Cover** | **1200 x 628 px** | **16:9 (Landscape)** | <img src="images/private_zoom_setup_banner.jpg" width="300" alt="Banner 16:9"> | [Download 16:9](images/private_zoom_setup_banner.jpg) |
 
 ---
 
