@@ -1,6 +1,6 @@
 # 🚀 Lynk.id Media Kit & Copywriting Setup: Private 1-on-1 Zoom
 
-Panduan & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id** (Sudah dilengkapi info link Grup WA VIP & Syarat Akun GitHub untuk Login OAuth Website).
+Panduan & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id** (Sudah dilengkapi info jam operasional Zoom: Senin-Sabtu > 17:00 WIB, Minggu Bebas Jam).
 
 ---
 
@@ -22,7 +22,7 @@ Panduan & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard *
 
 - **Ringkasan / Tagline**:
   ```text
-  Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Dapat Link Grup WA VIP setelah checkout)
+  Pendampingan privat via Zoom 1-on-1 dari nol sampai WA toko kamu dijawab AI & terkoneksi Multi-CS! (Jadwal: Senin-Sabtu > 17:00 WIB, Minggu Bebas Jam)
   ```
 
 - **Pengaturan Harga**:
@@ -39,6 +39,12 @@ Panduan & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard *
 Lewat sesi Private 1-on-1 Zoom Setup, kamu akan didampingi secara langsung dari nol sampai sistem WhatsApp Hub & Agentic AI Engine kamu LIVE & SIAP PAKAI untuk bisnis kamu!
 
 Gak perlu pusing urusan koding, integrasi token, atau error webhook. Semua kita selesaikan bersama dalam 1 sesi Zoom privat!
+
+========================================
+⏰ JADWAL OPERASIONAL SESI ZOOM
+========================================
+• Senin s/d Sabtu : Di atas jam 17:00 WIB (Sesi Malam)
+• Hari Minggu     : Fleksibel / Bebas Pilih Jam (Full Day)
 
 ========================================
 💬 SETELAH CHECKOUT LANGSUNG DAPAT LINK GRUP WA VIP!
@@ -95,7 +101,7 @@ Aktifkan field-field berikut pada form pemesanan Lynk.id:
 2. `Email Aktif` *(Email — Wajib)*
 3. `Nomor WhatsApp Aktif` *(Phone — Wajib)*
 4. `Username GitHub` *(Text — Wajib)*
-5. `Pilihan Tanggal & Jam Zoom` *(Textarea — Wajib)*
+5. `Pilihan Tanggal & Jam Zoom` *(Textarea — Wajib, Catatan: Senin-Sabtu > 17.00 WIB, Minggu Bebas)*
 6. `Nama Toko / Jenis Bisnis` *(Text — Opsional)*
 
 ---
@@ -114,6 +120,10 @@ Terima kasih sudah memesan Private 1-on-1 Zoom Setup: WA Hub & Agentic AI Engine
 ========================================
 Silakan langsung bergabung ke Grup WhatsApp VIP Privat melalui link berikut untuk koordinasi penentuan jadwal Zoom & diskusi teknis:
 👉 https://chat.whatsapp.com/GrupVipSetupWAHub (Ganti dengan link grup WA kamu)
+
+Catatan Jam Operasional Zoom:
+• Senin - Sabtu: Di atas jam 17:00 WIB
+• Minggu: Bebas pilih jam
 
 Sambil menunggu sesi Zoom, silakan siapkan:
 1. Akun GitHub aktif (untuk login OAuth ke member.wakdondin.my.id).
