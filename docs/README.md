@@ -160,6 +160,10 @@ Mari bertukar pengalaman & tingkatkan omset bisnis bersama! 🚀
 
 Klik ikon salin di kanan atas tiap kotak kode berikut:
 
+---
+
+### 📦 PRODUK 1: Private 1-on-1 Zoom Setup
+
 ### 1. Nama Produk
 ```text
 Private 1-on-1 Zoom Setup: WA Hub Multi-CS & Agentic AI Engine
@@ -217,6 +221,69 @@ Jadwal Zoom:
 
 Syarat Persiapan:
 • Komputer/Laptop, 1 Nomor WA Toko, Token Fonnte, & Akun GitHub Aktif (login OAuth).
+```
+
+---
+
+### 📦 PRODUK 2: WhatsApp Hub Engine — Broadcast & CS Rotator
+
+### 1. Nama Produk
+```text
+WhatsApp Hub Engine — Broadcast & CS Rotator dalam 1 Hub!
+```
+
+### 2. Kode SKU
+```text
+WA-HUB-ENGINE-01
+```
+
+### 3. Kategori Produk
+```text
+Software & SaaS
+```
+
+### 4. Harga Resmi (Rp)
+```text
+50000
+```
+
+### 5. Harga Promo (Rp)
+```text
+25000
+```
+
+### 6. Stok Real-Time
+```text
+9999
+```
+
+### 7. Deskripsi Ringkas / Subtitle (Catalog Tagline)
+```text
+Broadcast & CS Rotator dalam 1 Hub! Otomatisasi balasan chat 24/7, integrasi Meta Official Cloud API, dan Free Trial Gratis.
+```
+
+### 8. Link Detail / Checkout Direct
+```text
+https://member.wakdondin.my.id/wa-hub/landing
+```
+
+### 9. Deskripsi Lengkap Produk
+```text
+WhatsApp Hub & Management Engine — Platform Otomatisasi WhatsApp No. 1 Indonesia!
+
+Kelola ribuan chat pelanggan, broadcast promo massal tanpa takut diblokir, dan bagi-bagi pesan masuk ke tim CS secara otomatis & adil dalam 1 Dashboard Terpadu.
+
+Fitur Unggulan Utama:
+- Auto Balas Chat 24/7 (Agentic AI Engine Paham Katalog Produk & Stok Real-Time)
+- Official Meta Cloud API & Fonnte Gateway Connection
+- Smart Lead Rotator CS (Pembagian pesan masuk ke tim CS secara adil & otomatis)
+- Live 2-Way Inbox Chat Real-Time (Balas pesan dari 1 dashboard terpadu)
+- Broadcast Campaign Anti-Spam (Fitur jeda detik dinamis untuk keamanan nomor)
+- 1-Click Meta Template Sync (Sinkronisasi resmi Meta Developer Console)
+- Garansi Free Trial & Pembayaran Otomatis via QRIS Mayar
+
+Landing Page & Free Trial Resmi:
+https://member.wakdondin.my.id/wa-hub/landing
 ```
 
 ---
