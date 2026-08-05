@@ -4,13 +4,15 @@ Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste la
 
 ---
 
-## 📷 Asset Gambar & Rekomendasi Ukuran Lynk.id
+## 📷 Asset Gambar 3D Claymorphism & Rekomendasi Ukuran Lynk.id
 
 | Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
 | --- | --- | --- | --- | --- |
+| **WA Hub Product Showcase** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_hub_product_showcase.jpg" width="200" alt="WA Hub Product Showcase"> | [Download Showcase](images/wa_hub_product_showcase.jpg) |
+| **Private Zoom Setup Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/private_zoom_setup_banner.jpg" width="200" alt="Private Zoom Setup Banner"> | [Download Banner 1:1](images/private_zoom_setup_banner.jpg) |
 | **Foto Profil Grup WA VIP** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
-| **Thumbnail Etalase (Utama)** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/private_zoom_setup_thumb_1x1.jpg" width="180" alt="Thumbnail 1:1"> | [Download 1:1](images/private_zoom_setup_thumb_1x1.jpg) |
-| **Header Banner / Cover** | **1200 x 628 px** | **16:9 (Landscape)** | <img src="images/private_zoom_setup_banner.jpg" width="280" alt="Banner 16:9"> | [Download 16:9](images/private_zoom_setup_banner.jpg) |
+| **Foto Profil Grup WA Publik** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_public_group_profile_pic.jpg" width="180" alt="WA Public Profile Pic"> | [Download Avatar WA Public](images/wa_public_group_profile_pic.jpg) |
+| **Thumbnail Video TikTok / YouTube** | **1920 x 1080 px** | **16:9 (Landscape)** | <img src="images/tiktok_wa_agentic_thumbnail.jpg" width="260" alt="TikTok WA Agentic Thumbnail"> | [Download Thumbnail 16:9](images/tiktok_wa_agentic_thumbnail.jpg) |
 
 ---
 
