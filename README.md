@@ -20,6 +20,92 @@ Panduan, link resmi Lynk.id, kit copywriting Meta Ads, & kit copywriting lengkap
 
 ---
 
+## 📣 Meta Ads Copywriting Kit (Judul, Teks Utama, & Template Pesan WA)
+
+Panduan & materi iklan siap copypaste langsung ke **Meta Ads Manager** untuk mempromosikan **WhatsApp Hub & Management Engine** (Target Landing Page: `https://wakdondin.siapdigital.my.id/wa-hub/landing` / Nomor WABA: `+62 851-7706-4379`).
+
+### 📌 1. Judul Iklan Meta Ads (Headlines — Salin 1-Klik)
+
+```text
+🔥 Kelola WhatsApp Bisnis, Broadcast & CS Rotator dalam 1 Hub!
+```
+```text
+⚡ Coba Free Trial WhatsApp Hub & Meta Official Cloud API!
+```
+```text
+🚀 Otomatisasi Chat WA Toko 24/7 Tanpa Takut Terlewat!
+```
+```text
+🤖 Balas Chat WA Massal & Multi-CS Dashboard Resmi Meta!
+```
+
+---
+
+### 📌 2. Teks Utama Iklan Meta Ads (Primary Texts — Salin 1-Klik)
+
+#### 🟢 Variasi A: Pain Point Balas Chat & Solusi Multi-CS
+```text
+🚨 Masih pusing kelola chat WhatsApp bisnis yang menumpuk? Atau sering kehilangan pembeli gara-gara tim CS lambat balas pesan? 😭💸
+
+Ubah WhatsApp toko online kamu jadi Mesin Penjualan Terpadu dengan WhatsApp Hub & Management Engine! 🚀
+
+Keunggulan Utama:
+✅ Official Meta Cloud API & Fonnte Gateway Connection.
+✅ Smart Lead Rotator CS (Pembagian pesan masuk ke tim CS secara adil & otomatis).
+✅ Live 2-Way Inbox Chat Real-Time (Balas pesan langsung dari 1 dashboard terpadu).
+✅ Broadcast Campaign Anti-Spam (Fitur jeda detik dinamis untuk keamanan nomor).
+✅ 1-Click Meta Template Sync (Sinkronisasi resmi Meta Developer Console).
+
+🎁 GARANSI FREE TRIAL: Coba seluruh fitur secara GRATIS tanpa risiko!
+
+Klik tombol 'Selengkapnya' & coba WhatsApp Hub sekarang! 👇
+https://wakdondin.siapdigital.my.id/wa-hub/landing
+```
+
+#### 🟢 Variasi B: Keunggulan Meta Official API & Broadcast CS Rotator
+```text
+⚡ Kirim promo massal di WhatsApp tanpa risiko blokir? Plus bagi-bagi chat ke CS secara otomatis?
+
+Gunakan WhatsApp Hub Engine! Platform otomatisasi WhatsApp No. 1 terintegrasi Resmi Meta Cloud API.
+
+Fitur Unggulan:
+🔹 Broadcast Massal CSV dengan Anti-Spam Pacing (Staggered delay 3s-10s).
+🔹 Auto Lead Rotator CS (Round-robin lead assignment).
+🔹 Dashboard Inbox Live Chat 2-Arah Real-Time.
+🔹 Verifikasi Transaksi & Aktivasi Otomatis via QRIS Mayar.
+
+💰 Pilihan Paket Fleksibel:
+• Free Trial (Rp 0)
+• Paket Mingguan (Rp 25.000 / Minggu)
+• Paket Bulanan (Rp 50.000 / Bulan)
+
+Akses landing page resmi kami & buka dashboard kamu sekarang! 👇
+https://wakdondin.siapdigital.my.id/wa-hub/landing
+```
+
+---
+
+### 💬 3. Template Pesan WhatsApp Pembuka (Greeting Message Preset CTWA)
+
+Gunakan template pesan otomatis pembuka ini pada iklan Click-to-WhatsApp (CTWA) yang mengarah ke nomor WABA **`+62 851-7706-4379`**:
+
+#### 📩 Template Pesan 1 (Tanya Free Trial):
+```text
+Halo Kak! Saya tertarik mau coba Free Trial WhatsApp Hub & Management Engine. Boleh bantu jelaskan fiturnya?
+```
+
+#### 📩 Template Pesan 2 (Tanya Meta Official API):
+```text
+Halo Kak! Saya mau tanya cara integrasi nomor WhatsApp toko saya ke Meta Official Cloud API di WA Hub.
+```
+
+#### 📩 Template Pesan 3 (Tanya Langganan & Multi-CS Setup):
+```text
+Halo Kak! Saya ingin berlangganan WhatsApp Hub Paket Bulanan (Rp 50.000) dan konsultasi setup Multi-CS. Bantuan caranya kak?
+```
+
+---
+
 ## 📋 Data Form Input Agentic Hub Catalog (`/agentic-hub/ai-management?tab=products`)
 
 Klik ikon salin di kanan atas tiap kotak kode berikut:
