@@ -1,6 +1,7 @@
-# 🎯 Meta Ads (Facebook & Instagram Ads) High-Converting Campaign Kit
+# 🎯 Meta Ads (Facebook & Instagram Ads) Campaign Kit — WhatsApp Hub & Management
 
-Kit Copywriting & Target Audience Meta Ads siap pakai untuk mempromosikan **Agentic Hub**, **WhatsApp Hub & Management**, dan **Private 1-on-1 Zoom Setup**.
+Kit Kampanye, Copywriting, & Targeting Meta Ads siap pakai yang berfokus 100% untuk mempromosikan produk **WhatsApp Hub & Management Engine** dengan URL Landing Page resmi:
+👉 **Target Landing Page URL**: `https://wakdondin.siapdigital.my.id/wa-hub/landing`
 
 ---
 
@@ -8,178 +9,144 @@ Kit Copywriting & Target Audience Meta Ads siap pakai untuk mempromosikan **Agen
 
 | Parameter | Setting Rekomendasi Meta Ads |
 | --- | --- |
-| **Lokasi** | Indonesia (All Major Cities / Seluruh Indonesia) |
-| **Usia** | **22 – 45 Tahun** |
-| **Jenis Kelamin** | Pria & Wanita (All) |
-| **Bahasa** | Indonesian, English |
-| **Detail Targeting (Interests)** | • **Bisnis & Toko Online**: E-commerce, Business Owners, Digital Marketing, Online Shopping.<br>• **Platform Seller**: Shopee Seller, Tokopedia Seller, TikTok Shop Seller, WooCommerce, Shopify.<br>• **Tools & Ads**: Facebook Ads, Digital Advertising, WhatsApp Marketing, CRM Software.<br>• **Profesi**: Entrepreneurship, Small Business, Sales Manager. |
-| **Penempatan (Placements)** | • **Feed**: Instagram Feed, Facebook Feed (Rasio 1:1)<br>• **Stories & Reels**: Instagram Stories, Instagram Reels, Facebook Reels (Rasio 9:16 / 16:9)<br>• **Explore**: Instagram Explore |
-| **Goal / Tujuan Kampanye** | **Sales / Conversion** (Target URL: `https://lynk.id/itretceh/6o5pqqz28jr4`) atau **Leads / Traffic** ke WhatsApp. |
+| **Tujuan Iklan (Campaign Objective)** | **Sales / Conversions** atau **Traffic** |
+| **Target URL Landing Page** | `https://wakdondin.siapdigital.my.id/wa-hub/landing` |
+| **Lokasi (Location)** | Indonesia (Seluruh Kota Besar / All Indonesia) |
+| **Usia & Gender** | **22 – 45 Tahun** (Pria & Wanita) |
+| **Detail Targeting (Interests)** | • **Pebisnis Online & Seller**: E-commerce, Business Owners, Shopee Seller, Tokopedia Seller, TikTok Shop Seller, WooCommerce, Shopify.<br>• **Digital Marketing & Tools**: Facebook Ads, Digital Advertising, WhatsApp Marketing, CRM Software, Customer Service Management.<br>• **Perilaku**: Small Business Owners, Admin Halaman Facebook. |
+| **Penempatan (Placements)** | **Advantage+ Placements** atau manual pada **Instagram Feed, Facebook Feed, Instagram Stories, Instagram Reels, Facebook Reels**. |
 
 ---
 
-## ✍️ 2. Variasi Copywriting Meta Ads (Siap Copypaste)
+## ✍️ 2. Copywriting Meta Ads Berkonversi Tinggi (Siap Copypaste)
 
-### 📌 ANGLE 1: PAIN POINT (Omset Boncos & Capek Balas Chat WA Kemalaman)
+### 📌 ANGLE 1: PAIN POINT & SOLUSI MULTI-CS (Balas Chat WA Kemalaman & Customer Lari)
 
 **Primary Text:**
 ```text
-🚨 Masih capek balas chat WhatsApp toko online satu-satu sampai jam 2 malam? Atau sering kehilangan pembeli gara-gara CS terlambat balas pesan? 😭💸
+🚨 Masih pusing kelola chat WhatsApp bisnis yang menumpuk? Atau sering kehilangan pembeli gara-gara tim CS lambat balas pesan? 😭💸
 
-Saatnya ubah WhatsApp bisnis kamu jadi Mesin Penjualan Otomatis 24/7! 🚀
+Ubah WhatsApp toko online kamu jadi Mesin Penjualan Terpadu dengan WhatsApp Hub & Management Engine! 🚀
 
-Dengan Agentic Hub & WhatsApp Hub:
-✅ Pesan pembeli otomatis dijawab AI yang paham katalog & harga produk toko kamu.
-✅ Dampingan Multi-CS Rotator (pembagian obrolan ke tim CS secara adil).
-✅ Broadcast promo massal aman anti-spam pacing.
-✅ Integrasi WhatsApp Meta Cloud API Official & Fonnte Gateway.
+Keunggulan Utama:
+✅ Multi-Account WA Connection (Official Meta Cloud API & Fonnte Gateway).
+✅ Smart Lead Rotator CS (Pembagian pesan masuk ke tim CS secara adil & otomatis).
+✅ Live 2-Way Inbox Chat Real-Time (Balas pesan langsung dari 1 dashboard terpadu).
+✅ Broadcast Campaign Anti-Spam (Fitur jeda detik dinamis untuk keamanan nomor).
+✅ 1-Click Meta Template Sync (Sinkronisasi resmi Meta Developer Console).
 
-🔥 Khusus minggu ini: Dapatkan Sesi Private 1-on-1 Zoom Setup! Kita dampingi dari NOL sampai sistem kamu LIVE & SIAP PAKAI!
+🎁 GARANSI FREE TRIAL: Coba seluruh fitur secara GRATIS tanpa risiko!
 
-👇 Klik tombol 'Selengkapnya' atau ikuti sesi Zoom privat sekarang!
+Klik tombol 'Selengkapnya' & coba WhatsApp Hub sekarang! 👇
 ```
 
 **Headline Ads:**
 ```text
-🔥 WA Toko Dijawab AI 24/7 + Multi-CS Dashboard!
+🔥 Kelola WhatsApp Bisnis, Broadcast & CS Rotator dalam 1 Hub!
 ```
 
 **Description:**
 ```text
-Sesi Private 1-on-1 Zoom Setup Di-dampingi Sampai Live.
+Coba Free Trial & Langganan Mudah via QRIS Mayar.
 ```
 
 **Call-To-Action (CTA):**
 ```text
-Order Now / Pesan Sekarang / Learn More
+Learn More / Selengkapnya / Get Offer
 ```
 
 ---
 
-### 📌 ANGLE 2: SOLUTION & AUTOMATION (Fitur Agentic AI & Database Anti-Halusinasi)
+### 📌 ANGLE 2: OTOMASI BROADCAST & CS ROTATOR (Anti-Spam & Efisiensi Tim)
 
 **Primary Text:**
 ```text
-🤖 Takut AI halusinasi atau salah sebut harga promo saat jawab pelanggan di WhatsApp?
+⚡ Pengen kirim promo massal di WhatsApp tanpa risiko blokir? Plus bagi-bagi chat ke CS secara otomatis?
 
-Tenang! Agentic AI Engine kami terhubung langsung ke Database Produk Real toko kamu. AI secara presisi hanya menyebutkan nama barang, harga resmi/promo, status stok, dan memberikan LINK CHECKOUT DIRECT! 📦✨
+Gunakan WhatsApp Hub Engine! Platform otomatisasi WhatsApp No. 1 untuk pebisnis online.
 
-Keunggulan Agentic Hub & WhatsApp Hub:
-1️⃣ AI pintar menjawab spesifikasi & stok barang real-time.
-2️⃣ Live 2-Way Inbox Chat untuk serah terima ke CS manusia kapan saja.
-3️⃣ Auto Sync Template Meta Developer Console 1-Klik.
-4️⃣ Garansi Trial tanpa risiko!
+Fitur Unggulan:
+🔹 Broadcast Massal CSV dengan Anti-Spam Pacing (Staggered delay 3s-10s).
+🔹 Auto Lead Rotator CS (Round-robin lead assignment).
+🔹 Dashboard Inbox Live Chat 2-Arah Real-Time.
+🔹 Verifikasi Transaksi & Aktivasi Otomatis via QRIS Mayar.
 
-🎁 BONUS SESI ZOOM PRIVAT: Kita bantu setup kredensial Webhook & AI Agent kamu via Zoom 1-on-1!
+💰 Pilihan Paket Fleksibel:
+• Free Trial (Rp 0)
+• Paket Mingguan (Rp 25.000 / Minggu)
+• Paket Bulanan (Rp 50.000 / Bulan)
 
-👉 Ambil Slot Private Zoom & Coba Engine Sekarang!
+Akses landing page resmi kami & buka dashboard kamu sekarang! 👇
 ```
 
 **Headline Ads:**
 ```text
-🤖 Bot WA AI Paling Presisi: Tanpa Halusinasi Harga & Stok!
+🚀 Broadcast WA Anti-Spam & Smart CS Lead Rotator!
 ```
 
 **Description:**
 ```text
-Terintegrasi Database Produk & Direct Checkout Link.
+Integrasi Meta Official API & Fonnte Gateway.
 ```
 
 **Call-To-Action (CTA):**
 ```text
-Shop Now / Beli Sekarang
+Shop Now / Beli Sekarang / Learn More
 ```
 
 ---
 
-### 📌 ANGLE 3: PRIVATE 1-ON-1 ZOOM SETUP (Layanan Pendampingan Eksklusif)
+### 📌 ANGLE 3: OFFERS & TRIAL PROMO (Daya Tarik Harga & Garansi)
 
 **Primary Text:**
 ```text
-Gak paham koding? Pusing integrasi token WhatsApp & webhook AI? 🤔
+🎉 KHUSUS HARI INI: UJI COBA WHATSAPP HUB ENGINE SECARA GRATIS! ⚡
 
-Tenang, kamu gak perlu ngerjain sendiri! Lewat sesi "Private 1-on-1 Zoom Setup", tim kami akan mendampingi kamu secara langsung dari layar Zoom kamu sampai WhatsApp Hub & Agentic AI kamu BERHASIL LIVE! 🎉
+Tingkatkan kecepatan respons CS dan lipatgandakan penjualan toko kamu tanpa perlu ganti perangkat WhatsApp!
 
-Apa saja yang kita bantu di Zoom?
-🔹 Pemasangan Webhook Meta Cloud API / Fonnte.
-🔹 Pengaturan AI Agent CS & Sales Closing.
-🔹 Input Katalog Produk & Link Checkout Direct.
-🔹 Live Testing Chat dari HP ke Dashboard.
-🔹 Bonus Akses Grup WhatsApp VIP Support Privat!
+Kenapa Harus WhatsApp Hub?
+✅ Terkoneksi Resmi dengan Meta Cloud API & Fonnte Gateway.
+✅ Dashboard Live Chat Multi-Agent responsif.
+✅ Fitur Sync Template Meta 1-Klik.
+✅ Pembayaran & Aktivasi Otomatis via QRIS Mayar.
 
-⏰ Jadwal fleksibel (Senin-Sabtu malam / Minggu full day).
+Dapatkan garansi Free Trial & mulai langganan hemat mulai dari Rp 25.000 / minggu!
 
-👇 Ambil Slot Zoom Privat Kamu Sekarang Sebelum Kuota Penuh!
+Klik link di bawah untuk akses landing page resmi! 👇
 ```
 
 **Headline Ads:**
 ```text
-👨‍💻 Di-Setup-in Sampai Live via Zoom Privat 1-on-1!
+⚡ Coba Free Trial WhatsApp Hub & Management Engine!
 ```
 
 **Description:**
 ```text
-Bebas Pusing Koding + Bonus Link Akses Grup WA VIP.
+Solusi Terpadu WhatsApp Business No. 1 Indonesia.
 ```
 
 **Call-To-Action (CTA):**
 ```text
-Book Now / Pesan Sekarang
+Sign Up / Daftar Sekarang / Learn More
 ```
 
 ---
 
-### 📌 ANGLE 4: PROMO DISKON 50% & LIMITED OFFER (FOMO)
+## 🖼️ 3. Assets Visual Iklan Meta Ads (Folder `docs/images/`)
 
-**Primary Text:**
-```text
-🎉 DISKON 50% KHUSUS HARI INI! ⚡
+Gunakan asset visual 3D Claymorphism resmi berikut yang sudah disesuaikan untuk iklan WhatsApp Hub:
 
-Dapatkan Paket Private 1-on-1 Zoom Setup + Full Access WA Hub Engine hanya dengan Rp 249.000 (Harga Normal Rp 499.000)!
+1. **Meta FB Ads Feed Banner (Rasio 1:1 Square - 1080x1080 px)**:
+   - File: `meta_ads_feed_banner_v3.jpg`
+   - Tampilan: Banner 3D Claymorphism ungu pastel dengan robot pembantu, tombol *"Beli Script Sekarang"*, ikon Multi-CS Inbox, Lead Rotator, dan 1-on-1 Zoom Setup.
 
-Fasilitas Lengkap:
-✅ Dampingan Zoom Privat 1-on-1 sampai Live.
-✅ Full Source Code & Modul Siap Pakai.
-✅ Akses Grup WA VIP Support Privat.
-✅ Template Prompt AI CS/Sales Closing teruji closing rate tinggi.
-
-⚠️ HANYA TERSEDIA 10 SLOT HARIAN agar kualitas bimbingan Zoom tetap maksimal!
-
-Klik link di bawah sebelum harga kembali normal! 👇
-```
-
-**Headline Ads:**
-```text
-⚡ Diskon 50% Private Zoom Setup WA Hub + AI Engine!
-```
-
-**Description:**
-```text
-Harga Promo Rp 249.000 (Slot Terbatas Harian).
-```
-
-**Call-To-Action (CTA):**
-```text
-Get Offer / Dapatkan Penawaran
-```
+2. **Meta IG Reels & Stories Banner (Rasio 9:16 Vertical - 1080x1920 px)**:
+   - File: `meta_ads_reels_banner_v3.jpg`
+   - Tampilan: Banner vertikal 3D Claymorphism dengan robot WABA Assist, lencana *Private 1-on-1 Zoom Setup*, *Multi-CS Lead Rotator*, dan tombol CTA *"Join Today!"*.
 
 ---
 
-## 🖼️ 3. Panduan Penggunaan Visual Creative Assets Ads
+## 🔗 4. Link Tujuan Resmi Iklan Meta Ads
 
-Gunakan asset gambar 3D Claymorphism resmi yang telah disiapkan di folder `docs/images/` untuk materi iklan Meta Ads:
-
-1. **Untuk Feed Ads (Rasio 1:1 Square - 1080x1080 px)**:
-   - File: `private_zoom_setup_banner.jpg` atau `wa_hub_product_showcase.jpg`
-   - Tampilan: Banner visual 3D Claymorphism dengan mockup laptop & HP yang menampilkan Dashboard WA Hub & Sesi Zoom Privat.
-
-2. **Untuk Stories & Reels Ads (Rasio 9:16 Vertical / 16:9)**:
-   - File: `tiktok_wa_agentic_thumbnail.jpg`
-   - Tampilan: Banner 3D Claymorphism resolusi tinggi yang sangat menarik perhatian pengguna Instagram Stories & Reels.
-
----
-
-## 🔗 4. Target Landing Page / Link Checkout Meta Ads
-
-Arahkan tombol CTA Meta Ads kamu langsung ke tautan resmi Lynk.id:
-👉 **URL Utama**: `https://lynk.id/itretceh/6o5pqqz28jr4`
+Gunakan URL tujuan utama ini pada semua iklan Meta Ads Manager Anda:
+👉 **Target Landing Page URL**: `https://wakdondin.siapdigital.my.id/wa-hub/landing`
