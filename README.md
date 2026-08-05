@@ -1,6 +1,8 @@
 # 🚀 Lynk.id Media Kit & Copywriting Setup: Private 1-on-1 Zoom
 
-Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id** dan form katalog **Agentic Hub**.
+Panduan, link resmi Lynk.id, kit copywriting Meta Ads, & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id**, **Meta Ads Manager**, dan form katalog **Agentic Hub**.
+
+> 🎯 **Dokumentasi Terkait**: [Panduan & Kit Copywriting Meta Ads (FB & IG Ads)](META_ADS_CONTENT.md)
 
 ---
 
@@ -8,6 +10,8 @@ Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste la
 
 | Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
 | --- | --- | --- | --- | --- |
+| **Meta FB Ads Feed Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/meta_ads_feed_banner.jpg" width="200" alt="Meta FB Ads Feed Banner"> | [Download Meta Ads Feed 1:1](images/meta_ads_feed_banner.jpg) |
+| **Meta IG Reels & Stories Banner** | **1080 x 1920 px** | **9:16 (Vertical)** | <img src="images/meta_ads_reels_banner.jpg" width="140" alt="Meta IG Reels Banner"> | [Download Meta Ads Reels 9:16](images/meta_ads_reels_banner.jpg) |
 | **WA Hub Product Showcase** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_hub_product_showcase.jpg" width="200" alt="WA Hub Product Showcase"> | [Download Showcase](images/wa_hub_product_showcase.jpg) |
 | **Private Zoom Setup Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/private_zoom_setup_banner.jpg" width="200" alt="Private Zoom Setup Banner"> | [Download Banner 1:1](images/private_zoom_setup_banner.jpg) |
 | **Foto Profil Grup WA VIP** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
