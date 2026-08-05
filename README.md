@@ -14,8 +14,8 @@ Panduan, link resmi Lynk.id, kit copywriting Meta Ads, & kit copywriting lengkap
 | **Meta IG Reels & Stories Banner** | **1080 x 1920 px** | **9:16 (Vertical)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/meta_ads_reels_banner_v6.jpg" width="140" alt="Meta IG Reels Banner"> | [Download Meta Ads Reels 9:16](images/meta_ads_reels_banner_v6.jpg) |
 | **WA Hub Product Showcase** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_hub_product_showcase.jpg" width="200" alt="WA Hub Product Showcase"> | [Download Showcase](images/wa_hub_product_showcase.jpg) |
 | **Private Zoom Setup Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/private_zoom_setup_banner.jpg" width="200" alt="Private Zoom Setup Banner"> | [Download Banner 1:1](images/private_zoom_setup_banner.jpg) |
-| **Foto Profil Grup WA VIP** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
-| **Foto Profil Grup WA Publik** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_public_group_profile_pic.jpg" width="180" alt="WA Public Profile Pic"> | [Download Avatar WA Public](images/wa_public_group_profile_pic.jpg) |
+| **Grup WA VIP: VIP Member — WhatsApp Hub & Agentic AI** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
+| **Grup WA Public: Komunitas WA Hub Engine & Automation ID** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_public_group_profile_pic.jpg" width="180" alt="WA Public Profile Pic"> | [Download Avatar WA Public](images/wa_public_group_profile_pic.jpg) |
 | **Thumbnail Video TikTok / YouTube** | **1920 x 1080 px** | **16:9 (Landscape)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/tiktok_wa_agentic_thumbnail.jpg" width="260" alt="TikTok WA Agentic Thumbnail"> | [Download Thumbnail 16:9](images/tiktok_wa_agentic_thumbnail.jpg) |
 
 ---
@@ -102,6 +102,50 @@ Halo Kak! Saya mau tanya cara integrasi nomor WhatsApp toko saya ke Meta Officia
 #### 📩 Template Pesan 3 (Tanya Langganan & Multi-CS Setup):
 ```text
 Halo Kak! Saya ingin berlangganan WhatsApp Hub Paket Bulanan (Rp 50.000) dan konsultasi setup Multi-CS. Bantuan caranya kak?
+```
+
+---
+
+## 👥 Nama & Deskripsi Grup WhatsApp Resmi (VIP & Public)
+
+Format nama dan deskripsi resmi untuk pembuatan Grup WhatsApp Komunitas & VIP Member:
+
+### 🌟 1. Grup WhatsApp VIP (Khusus Pembeli / Member Aktif)
+
+#### 📌 Nama Grup WhatsApp VIP:
+```text
+VIP Member — WhatsApp Hub & Agentic AI
+```
+
+#### 📝 Deskripsi Grup WhatsApp VIP:
+```text
+Grup Resmi VIP Member WakDondin. Wadah diskusi prioritas, pendampingan setup 1-on-1, update script otomatisasi WA, dan konsultasi integrasi Meta Official Cloud API.
+
+📌 Aturan Grup:
+1. Jaga kesopanan & saling bantu sesama member.
+2. Dilarang spam atau promosi produk di luar sistem WakDondin.
+3. Tim Support Siap Membantu 24/7.
+```
+
+---
+
+### 🌐 2. Grup WhatsApp Public (Komunitas Umum / Calon Pembeli)
+
+#### 📌 Nama Grup WhatsApp Public:
+```text
+Komunitas WA Hub Engine & Automation ID
+```
+
+#### 📝 Deskripsi Grup WhatsApp Public:
+```text
+Komunitas Diskusi Terbuka WhatsApp Automation, Multi-CS Lead Rotator, Meta Ads Strategy, dan Pembuatan Agentic AI Engine Indonesia.
+
+📌 Info & Link Resmi:
+• Landing Page WA Hub: https://wakdondin.siapdigital.my.id/wa-hub/landing
+• Member Portal: https://wakdondin.siapdigital.my.id/
+• Customer Care: +62 851-7706-4379
+
+Mari bertukar pengalaman & tingkatkan omset bisnis bersama! 🚀
 ```
 
 ---
