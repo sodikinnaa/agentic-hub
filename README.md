@@ -37,9 +37,15 @@ Panduan & materi iklan siap copypaste langsung ke **Meta Ads Manager** untuk mem
 ```
 ```text
 🤖 Balas Chat WA Massal & Multi-CS Dashboard Resmi Meta!
-```
-
 ---
+
+### 🔘 4. Tombol Ajakan Bertindak (Call-To-Action / CTA Button)
+
+Khusus untuk **Iklan Klik ke WhatsApp (Click-to-WhatsApp / CTWA)**, Meta Ads **WAJIB** menggunakan pilihan tombol resmi berikut:
+
+- 🟢 **UTAMA (Sangat Direkomendasikan)**: **`Kirim Pesan WhatsApp` / `Send WhatsApp Message`**
+- 🟢 **ALTERNATIF VALID**: **`Hubungi Kami` / `Contact Us`** atau **`Selengkapnya` / `Learn More`**
+- ❌ **DILARANG / TIDAK VALID**: `Beli Sekarang` (`Shop Now`), `Daftar` (`Sign Up`), `Buka Aplikasi` (karena akan memicu error *Tombol ajakan bertindak tidak valid* di Meta Ads Manager).
 
 ### 📌 2. Teks Utama Iklan Meta Ads (Primary Texts — Salin 1-Klik)
 
