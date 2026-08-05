@@ -1,6 +1,8 @@
 # 🚀 Lynk.id Media Kit & Copywriting Setup: Private 1-on-1 Zoom
 
-Panduan, link resmi Lynk.id, & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id** dan form katalog **Agentic Hub**.
+Panduan, link resmi Lynk.id, kit copywriting Meta Ads, & kit copywriting lengkap yang siap di-copypaste langsung ke dashboard **Lynk.id**, **Meta Ads Manager**, dan form katalog **Agentic Hub**.
+
+> 🎯 **Dokumentasi Terkait**: [Panduan & Kit Copywriting Meta Ads (FB & IG Ads)](META_ADS_CONTENT.md)
 
 ---
 
