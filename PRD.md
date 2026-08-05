@@ -380,7 +380,7 @@ Fase ini mendefinisikan arsitektur integrasi **Agentic Hub x WA Hub** yang memun
 * **Metode Autentikasi & Pengenalan Tenant (2 Opsi Otentikasi):**
   1. **Opsi 1 — API Key Query Parameter (Paling Mudah):**  
      User menginputkan `Target URL` di `/wa-hub/settings` dengan menyertakan API Key AI Agent:  
-     `https://wakdondin.siapdigital.my.id/api/v1/agentic-hub/webhook/receiver?key=agentic_sk_...`  
+     `https://member.wakdondin.my.id/api/v1/agentic-hub/webhook/receiver?key=agentic_sk_...`  
      *Receiver di Agentic Hub akan langsung mencocokkan API Key tersebut untuk mendeteksi `user_id` toko dan AI Agent yang bertugas.*
   2. **Opsi 2 — HMAC-SHA256 Signature Verification:**  
      Jika tanpa query param, Agentic Hub memverifikasi Header Signature `X-WA-HUB-Signature: sha256=...` yang ditandatangani menggunakan `secret_token` tenant.

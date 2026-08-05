@@ -1,7 +1,7 @@
 # 🎯 Meta Ads (Facebook & Instagram Ads) Campaign Kit — WhatsApp Hub & Management
 
 Kit Kampanye, Copywriting, & Targeting Meta Ads siap pakai yang berfokus 100% untuk mempromosikan produk **WhatsApp Hub & Management Engine** dengan URL Landing Page resmi:
-👉 **Target Landing Page URL**: `https://wakdondin.siapdigital.my.id/wa-hub/landing`
+👉 **Target Landing Page URL**: `https://member.wakdondin.my.id/wa-hub/landing`
 
 ---
 
@@ -10,7 +10,7 @@ Kit Kampanye, Copywriting, & Targeting Meta Ads siap pakai yang berfokus 100% un
 | Parameter | Setting Rekomendasi Meta Ads |
 | --- | --- |
 | **Tujuan Iklan (Campaign Objective)** | **Sales / Conversions** atau **Traffic** |
-| **Target URL Landing Page** | `https://wakdondin.siapdigital.my.id/wa-hub/landing` |
+| **Target URL Landing Page** | `https://member.wakdondin.my.id/wa-hub/landing` |
 | **Lokasi (Location)** | Indonesia (Seluruh Kota Besar / All Indonesia) |
 | **Usia & Gender** | **22 – 45 Tahun** (Pria & Wanita) |
 | **Detail Targeting (Interests)** | • **Pebisnis Online & Seller**: E-commerce, Business Owners, Shopee Seller, Tokopedia Seller, TikTok Shop Seller, WooCommerce, Shopify.<br>• **Digital Marketing & Tools**: Facebook Ads, Digital Advertising, WhatsApp Marketing, CRM Software, Customer Service Management.<br>• **Perilaku**: Small Business Owners, Admin Halaman Facebook. |
@@ -149,4 +149,4 @@ Gunakan asset visual 3D Claymorphism resmi berikut yang sudah disesuaikan untuk 
 ## 🔗 4. Link Tujuan Resmi Iklan Meta Ads
 
 Gunakan URL tujuan utama ini pada semua iklan Meta Ads Manager Anda:
-👉 **Target Landing Page URL**: `https://wakdondin.siapdigital.my.id/wa-hub/landing`
+👉 **Target Landing Page URL**: `https://member.wakdondin.my.id/wa-hub/landing`

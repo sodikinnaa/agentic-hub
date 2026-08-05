@@ -22,7 +22,7 @@ Panduan, link resmi Lynk.id, kit copywriting Meta Ads, & kit copywriting lengkap
 
 ## 📣 Meta Ads Copywriting Kit (Judul, Teks Utama, & Template Pesan WA)
 
-Panduan & materi iklan siap copypaste langsung ke **Meta Ads Manager** untuk mempromosikan **WhatsApp Hub & Management Engine** (Target Landing Page: `https://wakdondin.siapdigital.my.id/wa-hub/landing` / Nomor WABA: `+62 851-7706-4379`).
+Panduan & materi iklan siap copypaste langsung ke **Meta Ads Manager** untuk mempromosikan **WhatsApp Hub & Management Engine** (Target Landing Page: `https://member.wakdondin.my.id/wa-hub/landing` / Nomor WABA: `+62 851-7706-4379`).
 
 ### 📌 1. Judul Iklan Meta Ads (Headlines — Salin 1-Klik)
 
@@ -65,7 +65,7 @@ Keunggulan Utama:
 🎁 GARANSI FREE TRIAL: Coba seluruh fitur secara GRATIS tanpa risiko!
 
 Klik tombol 'Selengkapnya' & coba WhatsApp Hub sekarang! 👇
-https://wakdondin.siapdigital.my.id/wa-hub/landing
+https://member.wakdondin.my.id/wa-hub/landing
 ```
 
 #### 🟢 Variasi B: Keunggulan Meta Official API & Broadcast CS Rotator
@@ -86,7 +86,7 @@ Fitur Unggulan:
 • Paket Bulanan (Rp 50.000 / Bulan)
 
 Akses landing page resmi kami & buka dashboard kamu sekarang! 👇
-https://wakdondin.siapdigital.my.id/wa-hub/landing
+https://member.wakdondin.my.id/wa-hub/landing
 ```
 
 ---
@@ -147,8 +147,8 @@ Komunitas WA Hub Engine & Automation ID
 Komunitas Diskusi Terbuka WhatsApp Automation, Multi-CS Lead Rotator, Meta Ads Strategy, dan Pembuatan Agentic AI Engine Indonesia.
 
 📌 Info & Link Resmi:
-• Landing Page WA Hub: https://wakdondin.siapdigital.my.id/wa-hub/landing
-• Member Portal: https://wakdondin.siapdigital.my.id/
+• Landing Page WA Hub: https://member.wakdondin.my.id/wa-hub/landing
+• Member Portal: https://member.wakdondin.my.id/
 • Customer Care: +62 851-7706-4379
 
 Mari bertukar pengalaman & tingkatkan omset bisnis bersama! 🚀

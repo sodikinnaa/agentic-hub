@@ -892,7 +892,7 @@
                         </div>
 
                         <div class="p-4 rounded-xl bg-slate-950 border border-slate-800 font-mono text-xs text-emerald-300 overflow-x-auto leading-relaxed" id="curlChatBox">
-                            curl -X POST https://wakdondin.siapdigital.my.id/api/v1/agentic-hub/chat \<br/>
+                            curl -X POST https://member.wakdondin.my.id/api/v1/agentic-hub/chat \<br/>
                             &nbsp;&nbsp;-H "Authorization: Bearer KEY_AKSES_ROLE_AGENT" \<br/>
                             &nbsp;&nbsp;-H "Content-Type: application/json" \<br/>
                             &nbsp;&nbsp;-d '{<br/>
@@ -956,7 +956,7 @@
                     </div>
 
                     <div class="p-4 rounded-xl bg-slate-950 border border-slate-800 font-mono text-xs text-emerald-300 overflow-x-auto leading-relaxed" id="curlCodeBox">
-                        curl -X POST https://wakdondin.siapdigital.my.id/api/v1/agentic-hub/tools/execute \<br/>
+                        curl -X POST https://member.wakdondin.my.id/api/v1/agentic-hub/tools/execute \<br/>
                         &nbsp;&nbsp;-H "Authorization: Bearer KEY_AKSES_ROLE_AGENT" \<br/>
                         &nbsp;&nbsp;-H "Content-Type: application/json" \<br/>
                         &nbsp;&nbsp;-d '{<br/>
