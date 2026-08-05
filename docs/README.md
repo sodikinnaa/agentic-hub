@@ -68,9 +68,9 @@ https://member.wakdondin.my.id/wa-hub/landing
 
 #### 🟢 Variasi B: Meta Official Cloud API & Broadcast
 ```text
-Kirim promo massal di WhatsApp tanpa risiko blokir dan bagikan chat ke CS secara otomatis?
+Broadcast & CS Rotator dalam 1 Hub!
 
-Gunakan WhatsApp Hub Engine! Platform otomatisasi WhatsApp No. 1 terintegrasi Resmi Meta Cloud API. Seluruh fitur Broadcast & CS Rotator dalam 1 Hub!
+Kirim promo massal di WhatsApp tanpa risiko blokir dan bagikan chat ke CS secara otomatis dengan WhatsApp Hub Engine (Official Meta Cloud API)!
 
 Fitur Unggulan:
 - Broadcast Massal CSV dengan Anti-Spam Pacing (Staggered delay 3s-10s)
