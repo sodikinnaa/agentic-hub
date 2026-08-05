@@ -10,13 +10,13 @@ Panduan, link resmi Lynk.id, kit copywriting Meta Ads, & kit copywriting lengkap
 
 | Jenis Tampilan | Ukuran Rekomendasi | Rasio | Preview Asset | Download Link |
 | --- | --- | --- | --- | --- |
-| **Meta FB Ads Feed Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/meta_ads_feed_banner.jpg" width="200" alt="Meta FB Ads Feed Banner"> | [Download Meta Ads Feed 1:1](images/meta_ads_feed_banner.jpg) |
-| **Meta IG Reels & Stories Banner** | **1080 x 1920 px** | **9:16 (Vertical)** | <img src="images/meta_ads_reels_banner.jpg" width="140" alt="Meta IG Reels Banner"> | [Download Meta Ads Reels 9:16](images/meta_ads_reels_banner.jpg) |
-| **WA Hub Product Showcase** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_hub_product_showcase.jpg" width="200" alt="WA Hub Product Showcase"> | [Download Showcase](images/wa_hub_product_showcase.jpg) |
-| **Private Zoom Setup Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/private_zoom_setup_banner.jpg" width="200" alt="Private Zoom Setup Banner"> | [Download Banner 1:1](images/private_zoom_setup_banner.jpg) |
-| **Foto Profil Grup WA VIP** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
-| **Foto Profil Grup WA Publik** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="images/wa_public_group_profile_pic.jpg" width="180" alt="WA Public Profile Pic"> | [Download Avatar WA Public](images/wa_public_group_profile_pic.jpg) |
-| **Thumbnail Video TikTok / YouTube** | **1920 x 1080 px** | **16:9 (Landscape)** | <img src="images/tiktok_wa_agentic_thumbnail.jpg" width="260" alt="TikTok WA Agentic Thumbnail"> | [Download Thumbnail 16:9](images/tiktok_wa_agentic_thumbnail.jpg) |
+| **Meta FB Ads Feed Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/meta_ads_feed_banner.jpg" width="200" alt="Meta FB Ads Feed Banner"> | [Download Meta Ads Feed 1:1](images/meta_ads_feed_banner.jpg) |
+| **Meta IG Reels & Stories Banner** | **1080 x 1920 px** | **9:16 (Vertical)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/meta_ads_reels_banner.jpg" width="140" alt="Meta IG Reels Banner"> | [Download Meta Ads Reels 9:16](images/meta_ads_reels_banner.jpg) |
+| **WA Hub Product Showcase** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_hub_product_showcase.jpg" width="200" alt="WA Hub Product Showcase"> | [Download Showcase](images/wa_hub_product_showcase.jpg) |
+| **Private Zoom Setup Banner** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/private_zoom_setup_banner.jpg" width="200" alt="Private Zoom Setup Banner"> | [Download Banner 1:1](images/private_zoom_setup_banner.jpg) |
+| **Foto Profil Grup WA VIP** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_vip_group_profile_pic.jpg" width="180" alt="WA VIP Profile Pic"> | [Download Avatar WA VIP](images/wa_vip_group_profile_pic.jpg) |
+| **Foto Profil Grup WA Publik** | **1080 x 1080 px** | **1:1 (Persegi)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/wa_public_group_profile_pic.jpg" width="180" alt="WA Public Profile Pic"> | [Download Avatar WA Public](images/wa_public_group_profile_pic.jpg) |
+| **Thumbnail Video TikTok / YouTube** | **1920 x 1080 px** | **16:9 (Landscape)** | <img src="https://raw.githubusercontent.com/sodikinnaa/agentic-hub/main/docs/images/tiktok_wa_agentic_thumbnail.jpg" width="260" alt="TikTok WA Agentic Thumbnail"> | [Download Thumbnail 16:9](images/tiktok_wa_agentic_thumbnail.jpg) |
 
 ---
 
