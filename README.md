@@ -56,6 +56,7 @@ Masih pusing kelola chat WhatsApp bisnis yang menumpuk? Atau sering kehilangan p
 Solusinya: WhatsApp Hub & Management Engine! Nikmati fitur Broadcast & CS Rotator dalam 1 Hub!
 
 Keunggulan Utama:
+- Auto Balas Chat 24/7 (Agentic AI Engine Paham Katalog Produk & Stok Real-Time)
 - Official Meta Cloud API & Fonnte Gateway Connection
 - Smart Lead Rotator CS (Pembagian pesan masuk ke tim CS secara adil & otomatis)
 - Live 2-Way Inbox Chat Real-Time (Balas pesan dari 1 dashboard terpadu)
@@ -70,9 +71,10 @@ https://member.wakdondin.my.id/wa-hub/landing
 ```text
 Broadcast & CS Rotator dalam 1 Hub!
 
-Kirim promo massal di WhatsApp tanpa risiko blokir dan bagikan chat ke CS secara otomatis dengan WhatsApp Hub Engine (Official Meta Cloud API)!
+Kirim promo massal di WhatsApp tanpa risiko blokir, otomatisasi balasan chat 24/7 dengan AI Engine, dan bagikan chat ke CS secara otomatis dengan WhatsApp Hub Engine (Official Meta Cloud API)!
 
 Fitur Unggulan:
+- Auto Balas Chat 24/7 (AI Bot Cerdas Jawab Pertanyaan Pelanggan 24 Jam Non-Stop)
 - Broadcast Massal CSV dengan Anti-Spam Pacing (Staggered delay 3s-10s)
 - Auto Lead Rotator CS (Round-robin lead assignment)
 - Dashboard Inbox Live Chat 2-Arah Real-Time
